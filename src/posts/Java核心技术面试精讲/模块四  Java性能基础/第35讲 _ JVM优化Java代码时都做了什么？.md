@@ -1,3 +1,5 @@
+# 第35讲 _ JVM优化Java代码时都做了什么？
+
 <audio id="audio" title="第35讲 | JVM优化Java代码时都做了什么？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d7/c0/d78aafda6e5f89e06e930bee2bd4ffc0.mp3"></audio>
 
 我在专栏上一讲介绍了微基准测试和相关的注意事项，其核心就是避免JVM运行中对Java代码的优化导致失真。所以，系统地理解Java代码运行过程，有利于在实践中进行更进一步的调优。

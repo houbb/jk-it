@@ -1,3 +1,5 @@
+# 06 _ auto_decltype：为什么要有自动类型推导？
+
 <audio id="audio" title="06 | auto/decltype：为什么要有自动类型推导？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d0/33/d0dec00dd6b1003f2238d36f60b20e33.mp3"></audio>
 
 你好，我是Chrono。

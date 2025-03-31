@@ -1,3 +1,5 @@
+# 37 _ 如何使用 video.js 播放多媒体文件？
+
 <audio id="audio" title="37 | 如何使用 video.js 播放多媒体文件？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/8d/d2/8d311e676eb37dbd912f6996262991d2.mp3"></audio>
 
 在上一篇文章中，我们介绍了 flv.js 播放器。那今天我们再来介绍另一款非常有名的 JavaScript 播放器——video.js。

@@ -1,3 +1,5 @@
+# 15 _ Python对象的比较、拷贝
+
 <audio id="audio" title="15 | Python对象的比较、拷贝" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/59/6f/59c1f81b6b6176ad81b4db3ea0213b6f.mp3"></audio>
 
 你好，我是景霄。

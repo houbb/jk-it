@@ -1,3 +1,5 @@
+# JavaScript类型：关于类型，有哪些你不知道的细节？
+
 <audio id="audio" title="JavaScript类型：关于类型，有哪些你不知道的细节？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/5d/02/5d547304bd595d7ae180de74d8c48302.mp3"></audio>
 
 你好，我是winter。今天我们来讲讲JavaScript的内容，在这个部分，我首先想跟你聊一聊类型。

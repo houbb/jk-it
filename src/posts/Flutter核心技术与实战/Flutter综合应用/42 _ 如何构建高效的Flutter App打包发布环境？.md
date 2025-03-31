@@ -1,3 +1,5 @@
+# 42 _ 如何构建高效的Flutter App打包发布环境？
+
 <audio id="audio" title="42 | 如何构建高效的Flutter App打包发布环境？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/69/ca/696532689dac774729f38ba60cc9edca.mp3"></audio>
 
 你好，我是陈航。今天，我们来聊一聊Flutter应用的交付这个话题。

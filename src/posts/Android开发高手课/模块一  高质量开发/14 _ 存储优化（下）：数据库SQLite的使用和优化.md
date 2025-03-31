@@ -1,3 +1,5 @@
+# 14 _ 存储优化（下）：数据库SQLite的使用和优化
+
 <audio id="audio" title="14 | 存储优化（下）：数据库SQLite的使用和优化" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/3f/20/3f2516d097c71a3e435e0967ecb40220.mp3"></audio>
 
 我们先来复习一下前面讲到的存储方法的使用场景：少量的Key Value数据可以直接使用SharedPreferences，稍微复杂一些的数据类型也可以通过序列化成JSON或者Protocol Buffers保存，并且在开发中获取或者修改数据也很简单。

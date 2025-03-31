@@ -1,3 +1,5 @@
+# 第18讲 _ 什么情况下Java程序会产生死锁？如何定位、修复？
+
 <audio id="audio" title="第18讲 | 什么情况下Java程序会产生死锁？如何定位、修复？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/09/dd/0948d7f4d81a344f455cf7d784f2b0dd.mp3"></audio>
 
 今天，我会介绍一些日常开发中类似线程死锁等问题的排查经验，并选择一两个我自己修复过或者诊断过的核心类库死锁问题作为例子，希望不仅能在面试时，包括在日常工作中也能对你有所帮助。

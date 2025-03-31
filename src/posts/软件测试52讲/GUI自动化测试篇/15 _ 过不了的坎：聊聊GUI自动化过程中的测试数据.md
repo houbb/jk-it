@@ -1,3 +1,5 @@
+# 15 _ 过不了的坎：聊聊GUI自动化过程中的测试数据
+
 <audio id="audio" title="15 | 过不了的坎：聊聊GUI自动化过程中的测试数据" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f1/82/f12f4a9322e619b8e540a0d577a51482.mp3"></audio>
 
 在前面几篇文章中，我从页面操作的角度介绍了GUI自动化测试，讲解了页面对象模型和业务流程封装，今天我将从测试数据的角度再来谈谈GUI自动化测试。

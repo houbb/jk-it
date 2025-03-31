@@ -1,3 +1,5 @@
+# 02 _ 如何通过WebRTC进行音视频设备检测呢？
+
 <audio id="audio" title="02 | 如何通过WebRTC进行音视频设备检测呢？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e8/ad/e875371b21b089b3f37fa3151a2e73ad.mp3"></audio>
 
 使用过音视频会议或在线教育等实时互动软件的同学都知道，在打开摄像头（Camera）或麦克风（Micphone）的时候，首先要对其进行检测，检测的内容包括：

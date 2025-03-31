@@ -1,3 +1,5 @@
+# 41 _ 组件化和平台化，该如何组织合理稳定的Flutter工程结构？
+
 <audio id="audio" title="41 | 组件化和平台化，该如何组织合理稳定的Flutter工程结构？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a1/33/a1151fc5ffe03e70c5ffb8193ac04c33.mp3"></audio>
 
 你好，我是陈航。今天，我们来聊一聊Flutter应用的工程架构这个话题。

@@ -1,3 +1,5 @@
+# 36 _ 如何使用 flv.js 播放 FLV 多媒体文件呢？
+
 <audio id="audio" title="36 | 如何使用 flv.js 播放 FLV 多媒体文件呢？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b3/51/b32bdc224d684d0b72a3d06649ac9551.mp3"></audio>
 
 flv.js 是由 bilibili 公司开源的项目。它可以解析FLV文件，从中取出音视频数据并转成 BMFF片段（一种MP4格式），然后交给HTML5 的`&lt;video&gt;`标签进行播放。通过这种方式，使得浏览器在不借助 Flash 的情况下也可以播放 FLV 文件了。

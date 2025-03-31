@@ -1,3 +1,5 @@
+# 27 _ 让我们一起探索Medooze的具体实现吧（上）
+
 <audio id="audio" title="27 | 让我们一起探索Medooze的具体实现吧（上）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/5e/9e/5e8fabb16883ecef634008fe3b37db9e.mp3"></audio>
 
 在咱们专栏的第一模块，我向你介绍了如何使用 WebRTC 进行实现音视频互动。随着 Google 对 WebRTC 的大力推广，目前主流的浏览器都支持了 WebRTC。WebRTC 最主要的功能就是提供端对端的音视频通信，其可以借助 STUN/TURN 服务器完成 NAT 穿越，实现两个端点之间的直接通信。

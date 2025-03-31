@@ -1,3 +1,5 @@
+# 39 _ bytes包与字节串操作（下）
+
 <audio id="audio" title="39 | bytes包与字节串操作（下）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/1f/c6/1f81df9ff385ae6e343d551f09628fc6.mp3"></audio>
 
 你好，我是郝林，今天我们继续分享bytes包与字节串操作的相关内容。

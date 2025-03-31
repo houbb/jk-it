@@ -1,3 +1,5 @@
+# 第36讲 _ 谈谈MySQL支持的事务隔离级别，以及悲观锁和乐观锁的原理和应用场景？
+
 <audio id="audio" title="第36讲 | 谈谈MySQL支持的事务隔离级别，以及悲观锁和乐观锁的原理和应用场景？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/39/d1/39b4b6580b81b69aca9a92904ec593d1.mp3"></audio>
 
 在日常开发中，尤其是业务开发，少不了利用Java对数据库进行基本的增删改查等数据操作，这也是Java工程师的必备技能之一。做好数据操作，不仅仅需要对Java语言相关框架的掌握，更需要对各种数据库自身体系结构的理解。今天这一讲，作为补充Java面试考察知识点的完整性，关于数据库的应用和细节还需要在实践中深入学习。

@@ -1,3 +1,5 @@
+# 12 _ 唯有套路得人心：谈谈Java EE的那些模式
+
 <audio id="audio" title="12 | 唯有套路得人心：谈谈Java EE的那些模式" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/aa/37/aa892b05b72d63d383174a5e21421237.mp3"></audio>
 
 你好，我是四火。

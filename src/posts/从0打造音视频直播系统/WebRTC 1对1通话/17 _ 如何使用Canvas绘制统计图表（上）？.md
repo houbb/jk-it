@@ -1,3 +1,5 @@
+# 17 _ 如何使用Canvas绘制统计图表（上）？
+
 <audio id="audio" title="17 | 如何使用Canvas绘制统计图表（上）？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/c2/e8/c2f35ed9afb2d068fbd1e0c2096f69e8.mp3"></audio>
 
 **Canvas** 是 HTML5 标准中的一个新元素，你可以把它想像成一块“画布”，有了它你就可以在网页上绘制图像和动画了。在HTML5页面中可像使用其他元素一样使用Canvas，如Video标签。为了能够在 Canvas 上绘图，浏览器为此提供了一整套 JavaScript API ，我们将在后面的代码中看到如何使用它们。

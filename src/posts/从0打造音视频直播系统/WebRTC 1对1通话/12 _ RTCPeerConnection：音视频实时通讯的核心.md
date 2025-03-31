@@ -1,3 +1,5 @@
+# 12 _ RTCPeerConnection：音视频实时通讯的核心
+
 <audio id="audio" title="12 | RTCPeerConnection：音视频实时通讯的核心" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f2/ee/f241def49f86e98fa1adc497349ee5ee.mp3"></audio>
 
 RTCPeerConnection 类是在浏览器下使用 WebRTC 实现1对1实时互动音视频系统最核心的类。你可以认为它是一个总的接口类或者称它为聚合类，而该类中实现的很多功能都是由其他类具体实现的。

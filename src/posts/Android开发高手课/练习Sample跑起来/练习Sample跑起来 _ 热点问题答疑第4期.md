@@ -1,3 +1,5 @@
+# 练习Sample跑起来 _ 热点问题答疑第4期
+
 <audio id="audio" title="练习Sample跑起来 | 热点问题答疑第4期" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/4a/04/4a0b0d36eab51f49f932bb3a72102704.mp3"></audio>
 
 你好，我是孙鹏飞。今天我们回到专栏第7期和第8期，来看看课后练习Sample的运行需要注意哪些问题。另外我结合同学们留言的疑问，也来谈谈文件顺序对I/O的影响，以及关于Linux学习我的一些方法和建议。

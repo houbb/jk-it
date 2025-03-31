@@ -1,3 +1,5 @@
+# 76 _  开源实战一（上）：通过剖析Java JDK源码学习灵活应用设计模式
+
 <audio id="audio" title="76 |  开源实战一（上）：通过剖析Java JDK源码学习灵活应用设计模式" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ba/31/bac570414d9984d28fea9e761fa7f631.mp3"></audio>
 
 从今天开始，我们就正式地进入到实战环节。实战环节包括两部分，一部分是开源项目实战，另一部分是项目实战。

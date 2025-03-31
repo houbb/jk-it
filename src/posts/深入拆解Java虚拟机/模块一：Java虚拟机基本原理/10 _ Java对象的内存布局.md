@@ -1,3 +1,5 @@
+# 10 _ Java对象的内存布局
+
 <audio id="audio" title="10 | Java对象的内存布局" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/3a/14/3a8d369637ca245c3dca26cef8f41d14.mp3"></audio>
 
 在Java程序中，我们拥有多种新建对象的方式。除了最为常见的new语句之外，我们还可以通过反射机制、Object.clone方法、反序列化以及Unsafe.allocateInstance方法来新建对象。

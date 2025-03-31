@@ -1,3 +1,5 @@
+# 第21讲 _ Java并发类库提供的线程池有哪几种？ 分别有什么特点？
+
 <audio id="audio" title="第21讲 | Java并发类库提供的线程池有哪几种？ 分别有什么特点？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a9/ac/a9ffa6a060a1d4f7c331df245c42f6ac.mp3"></audio>
 
 我在[专栏第17讲](http://time.geekbang.org/column/article/9103)中介绍过线程是不能够重复启动的，创建或销毁线程存在一定的开销，所以利用线程池技术来提高系统资源利用效率，并简化线程管理，已经是非常成熟的选择。

@@ -1,3 +1,5 @@
+# 39 _ Django：搭建监控平台
+
 <audio id="audio" title="39 | Django：搭建监控平台" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e8/fa/e82c2455d0c04f85c060957b9f3f0efa.mp3"></audio>
 
 你好，我是景霄。

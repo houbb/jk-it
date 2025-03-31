@@ -1,3 +1,5 @@
+# 01 _ 拆分与合并：如何快速地批量处理内容相似的Excel？
+
 <audio id="audio" title="01 | 拆分与合并：如何快速地批量处理内容相似的Excel？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/02/b4/025800e6494b54df2b6bc607b0cf0ab4.mp3"></audio>
 
 你好，我是尹会生。今天是咱们的第一节课，我先带你学习下，如何用Python操作Excel。

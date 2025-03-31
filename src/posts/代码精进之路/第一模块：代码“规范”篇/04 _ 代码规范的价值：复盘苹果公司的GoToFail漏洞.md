@@ -1,3 +1,5 @@
+# 04 _ 代码规范的价值：复盘苹果公司的GoToFail漏洞
+
 <audio id="audio" title="04 | 代码规范的价值：复盘苹果公司的GoToFail漏洞" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/bd/32/bd836398129aeea6d06b16b24a5cba32.mp3"></audio>
 
 我们在上一讲中讨论了一个优秀的程序员都需要具备哪些良好的品质，第一点就是要熟练掌握一门编程语言。

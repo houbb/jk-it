@@ -1,3 +1,5 @@
+# 43 _ bufio包中的数据类型（下）
+
 <audio id="audio" title="43 | bufio包中的数据类型（下）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/14/0a/14b60f9568f1135273b78051726a240a.mp3"></audio>
 
 你好，我是郝林，我今天继续分享bufio包中的数据类型。

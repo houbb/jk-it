@@ -1,3 +1,5 @@
+# 08 _ JVM是怎么实现invokedynamic的？（上）
+
 <audio id="audio" title="08 | JVM是怎么实现invokedynamic的？（上）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/35/6c/357dbd97d790c76e54938df91d61856c.mp3"></audio>
 
 前不久，“虚拟机”赛马俱乐部来了个年轻人，标榜自己是动态语言，是先进分子。

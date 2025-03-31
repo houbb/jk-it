@@ -1,3 +1,5 @@
+# 05 _ HTTP调用：你考虑到超时、重试、并发了吗？
+
 <audio id="audio" title="05 | HTTP调用：你考虑到超时、重试、并发了吗？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/1c/ad/1ceed88afba883f8aa305d4a6e9e18ad.mp3"></audio>
 
 你好，我是朱晔。今天，我们一起聊聊进行HTTP调用需要注意的超时、重试、并发等问题。

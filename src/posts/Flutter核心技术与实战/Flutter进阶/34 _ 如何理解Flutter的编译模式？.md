@@ -1,3 +1,5 @@
+# 34 _ 如何理解Flutter的编译模式？
+
 <audio id="audio" title="34 | 如何理解Flutter的编译模式？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/df/46/dff197d69ffb6279544ed322acc23a46.mp3"></audio>
 
 你好，我是陈航。今天，我们来聊聊Flutter的编译模式吧。

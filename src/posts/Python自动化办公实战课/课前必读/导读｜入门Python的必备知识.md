@@ -1,3 +1,5 @@
+# 导读｜入门Python的必备知识
+
 <audio id="audio" title="导读｜入门Python的必备知识" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/45/a9/458ec4c09284e3bc8562c79a418459a9.mp3"></audio>
 
 你好，我是尹会生。

@@ -1,3 +1,5 @@
+# 02 _ Jupyter Notebook为什么是现代Python的必学技术？
+
 <audio id="audio" title="02 | Jupyter Notebook为什么是现代Python的必学技术？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7f/b9/7f8481cb86c376b17e93ca8a01b74fb9.mp3"></audio>
 
 你好，我是景霄。

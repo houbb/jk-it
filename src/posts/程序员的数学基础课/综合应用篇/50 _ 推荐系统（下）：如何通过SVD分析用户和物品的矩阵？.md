@@ -1,3 +1,5 @@
+# 50 _ 推荐系统（下）：如何通过SVD分析用户和物品的矩阵？
+
 <audio id="audio" title="50 | 推荐系统（下）：如何通过SVD分析用户和物品的矩阵？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ee/4f/eecc7c8a556c409ae30bc299141ee84f.mp3"></audio>
 
 你好，我是黄申。

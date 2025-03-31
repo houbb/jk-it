@@ -1,3 +1,5 @@
+# 第17讲 _ 一个线程两次调用start()方法会出现什么情况？
+
 <audio id="audio" title="第17讲 | 一个线程两次调用start()方法会出现什么情况？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/8d/94/8deca6c623d51354ba32124922a06d94.mp3"></audio>
 
 今天我们来深入聊聊线程，相信大家对于线程这个概念都不陌生，它是Java并发的基础元素，理解、操纵、诊断线程是Java工程师的必修课，但是你真的掌握线程了吗？

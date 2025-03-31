@@ -1,3 +1,5 @@
+# 10 _ lambda：函数式编程带来了什么？
+
 <audio id="audio" title="10 | lambda：函数式编程带来了什么？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e2/57/e2839e9fd15c657822c170e1d3542957.mp3"></audio>
 
 你好，我是Chrono。

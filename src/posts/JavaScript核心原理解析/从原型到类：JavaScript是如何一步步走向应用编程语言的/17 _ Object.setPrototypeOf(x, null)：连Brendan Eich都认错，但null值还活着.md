@@ -1,3 +1,5 @@
+# 17 _ Object.setPrototypeOf(x, null)：连Brendan Eich都认错，但null值还活着
+
 <audio id="audio" title="17 | Object.setPrototypeOf(x, null)：连Brendan Eich都认错，但null值还活着" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/9f/ae/9f71d1e291f04e4c187ab6fb3944a7ae.mp3"></audio>
 
 你好，我是周爱民。欢迎回来继续学习JavaScript。

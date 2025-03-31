@@ -1,3 +1,5 @@
+# 04 _ WebAssembly 模块的基本组成结构到底有多简单？
+
 <audio id="audio" title="04 | WebAssembly 模块的基本组成结构到底有多简单？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/23/61/23a597f3637c8b8c4b174942b0d60e61.mp3"></audio>
 
 你好，我是于航。今天我来和你聊一聊 Wasm 模块的基本组成结构与字节码分析。

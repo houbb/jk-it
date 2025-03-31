@@ -1,3 +1,5 @@
+# 25 _ CompletionService：如何批量执行异步任务？
+
 <audio id="audio" title="25 | CompletionService：如何批量执行异步任务？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/02/a5/02b3f358bc9c92a599db387d9e8fe8a5.mp3"></audio>
 
 在[《23 | Future：如何用多线程实现最优的“烧水泡茶”程序？》](https://time.geekbang.org/column/article/91292)的最后，我给你留了道思考题，如何优化一个询价应用的核心代码？如果采用“ThreadPoolExecutor+Future”的方案，你的优化结果很可能是下面示例代码这样：用三个线程异步执行询价，通过三次调用Future的get()方法获取询价结果，之后将询价结果保存在数据库中。

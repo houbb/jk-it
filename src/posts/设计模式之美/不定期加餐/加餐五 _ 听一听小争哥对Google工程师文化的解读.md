@@ -1,3 +1,5 @@
+# 加餐五 _ 听一听小争哥对Google工程师文化的解读
+
 <audio id="audio" title="加餐五 | 听一听小争哥对Google工程师文化的解读" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/07/a7/07b0c334e37be05d3b72d64330f6a3a7.mp3"></audio>
 
 在技术圈里，我们经常听到“工程师文化”这个词。很多公司的HR、管理层都热衷于研究Google、Facebook、Netflix等大公司的文化，希望能打造成和它们一样优秀的工程师文化。

@@ -1,3 +1,5 @@
+# 13 _ new X：从构造器到类，为你揭密对象构造的全程
+
 <audio id="audio" title="13 | new X：从构造器到类，为你揭密对象构造的全程" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/af/86/afd99eaefdac81619b6f77a3ceb9cd86.mp3"></audio>
 
 你好，我是周爱民。

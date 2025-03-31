@@ -1,3 +1,5 @@
+# 40 _ 案例分析（三）：高性能队列Disruptor
+
 <audio id="audio" title="40 | 案例分析（三）：高性能队列Disruptor" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b7/b6/b7a92ee600edee299532363de07d36b6.mp3"></audio>
 
 我们在[《20 | 并发容器：都有哪些“坑”需要我们填？》](https://time.geekbang.org/column/article/90201)介绍过Java SDK提供了2个有界队列：ArrayBlockingQueue 和 LinkedBlockingQueue，它们都是基于ReentrantLock实现的，在高并发场景下，锁的效率并不高，那有没有更好的替代品呢？有，今天我们就介绍一种性能更高的有界队列：Disruptor。

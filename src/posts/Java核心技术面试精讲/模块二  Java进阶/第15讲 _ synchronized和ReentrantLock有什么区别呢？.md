@@ -1,3 +1,5 @@
+# 第15讲 _ synchronized和ReentrantLock有什么区别呢？
+
 <audio id="audio" title="第15讲 | synchronized和ReentrantLock有什么区别呢？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/bf/95/bfc6d7164fc0535d7aff6219afc6d695.mp3"></audio>
 
 从今天开始，我们将进入Java并发学习阶段。软件并发已经成为现代软件开发的基础能力，而Java精心设计的高效并发机制，正是构建大规模应用的基础之一，所以考察并发基本功也成为各个公司面试Java工程师的必选项。

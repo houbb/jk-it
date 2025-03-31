@@ -1,3 +1,5 @@
+# 42 _ bufio包中的数据类型 （上）
+
 <audio id="audio" title="42 | bufio包中的数据类型 （上）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b3/9c/b399e847c0dd8b41b8ebd71f7788419c.mp3"></audio>
 
 今天，我们来讲另一个与I/O操作强相关的代码包`bufio`。`bufio`是“buffered I/O”的缩写。顾名思义，这个代码包中的程序实体实现的I/O操作都内置了缓冲区。

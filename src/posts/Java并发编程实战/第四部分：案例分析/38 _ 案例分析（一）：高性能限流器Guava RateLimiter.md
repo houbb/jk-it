@@ -1,3 +1,5 @@
+# 38 _ 案例分析（一）：高性能限流器Guava RateLimiter
+
 <audio id="audio" title="38 | 案例分析（一）：高性能限流器Guava RateLimiter" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f6/ba/f6886442618684af26003b3dda798fba.mp3"></audio>
 
 从今天开始，我们就进入案例分析模块了。 这个模块我们将分析四个经典的开源框架，看看它们是如何处理并发问题的，通过这四个案例的学习，相信你会对如何解决并发问题有个更深入的认识。

@@ -1,3 +1,5 @@
+# 18 _ metaclass，是潘多拉魔盒还是阿拉丁神灯？
+
 <audio id="audio" title="18 | metaclass，是潘多拉魔盒还是阿拉丁神灯？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f5/58/f553a545f2646e3acba6ccd0a08b6058.mp3"></audio>
 
 你好，我是蔡元楠，极客时间《大规模数据处理实战》专栏的作者。今天我想和你分享的主题是：metaclass，是潘多拉魔盒还是阿拉丁神灯？

@@ -1,3 +1,5 @@
+# 06 _ App 如何通过注入动态库的方式实现极速编译调试？
+
 <audio id="audio" title="06 | App 如何通过注入动态库的方式实现极速编译调试？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/2e/fe/2e82135e45c225a4c9347a67338b7bfe.mp3"></audio>
 
 你好，我是戴铭。

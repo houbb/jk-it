@@ -1,3 +1,5 @@
+# 10 _ x = yield x：迭代过程的“函数式化”
+
 <audio id="audio" title="10 | x = yield x：迭代过程的“函数式化”" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7a/c9/7a8d0796b78dfa1fbfe30f0c021945c9.mp3"></audio>
 
 你好，我是周爱民。欢迎回到我的专栏。

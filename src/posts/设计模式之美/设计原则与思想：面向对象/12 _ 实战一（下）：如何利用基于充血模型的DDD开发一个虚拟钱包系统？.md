@@ -1,3 +1,5 @@
+# 12 _ 实战一（下）：如何利用基于充血模型的DDD开发一个虚拟钱包系统？
+
 <audio id="audio" title="12 | 实战一（下）：如何利用基于充血模型的DDD开发一个虚拟钱包系统？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a1/b2/a131f7ae20c05eb288470246ce4d9ab2.mp3"></audio>
 
 上一节课，我们做了一些理论知识的铺垫性讲解，讲到了两种开发模式，基于贫血模型的传统开发模式，以及基于充血模型的DDD开发模式。今天，我们正式进入实战环节，看如何分别用这两种开发模式，设计实现一个钱包系统。

@@ -1,3 +1,5 @@
+# 14 _ super.xxx()：虽然直到ES10还是个半吊子实现，却也值得一讲
+
 <audio id="audio" title="14 | super.xxx()：虽然直到ES10还是个半吊子实现，却也值得一讲" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a5/8f/a565b7d860dadcf083d9bd3410b2278f.mp3"></audio>
 
 你好，我是周爱民，接下来我们继续讲述JavaScript中的那些奇幻代码。

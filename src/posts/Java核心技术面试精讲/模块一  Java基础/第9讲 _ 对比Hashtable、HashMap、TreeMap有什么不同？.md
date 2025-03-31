@@ -1,3 +1,5 @@
+# 第9讲 _ 对比Hashtable、HashMap、TreeMap有什么不同？
+
 <audio id="audio" title="第9讲 | 对比Hashtable、HashMap、TreeMap有什么不同？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a0/77/a0434e68bf102953824a7f3cdd595877.mp3"></audio>
 
 Map是广义Java集合框架中的另外一部分，HashMap作为框架中使用频率最高的类型之一，它本身以及相关类型自然也是面试考察的热点。

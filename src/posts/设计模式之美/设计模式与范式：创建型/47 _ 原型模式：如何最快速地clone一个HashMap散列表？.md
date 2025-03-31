@@ -1,3 +1,5 @@
+# 47 _ 原型模式：如何最快速地clone一个HashMap散列表？
+
 <audio id="audio" title="47 | 原型模式：如何最快速地clone一个HashMap散列表？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7c/46/7ca5582641d1d9f4e672785e11e00f46.mp3"></audio>
 
 对于创建型模式，前面我们已经讲了单例模式、工厂模式、建造者模式，今天我们来讲最后一个：原型模式。

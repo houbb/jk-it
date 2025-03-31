@@ -1,3 +1,5 @@
+# 第34讲 _ 有人说“Lambda能让Java程序慢30倍”，你怎么看？
+
 <audio id="audio" title="第34讲 | 有人说“Lambda能让Java程序慢30倍”，你怎么看？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/2a/3b/2a43ff7d3bad7e7bbe91e6e6df965d3b.mp3"></audio>
 
 在上一讲中，我介绍了Java性能问题分析的一些基本思路。但在实际工作中，我们不能仅仅等待性能出现问题再去试图解决，而是需要定量的、可对比的方法，去评估Java应用性能，来判断其是否能够符合业务支撑目标。今天这一讲，我会介绍从Java开发者角度，如何从代码级别判断应用的性能表现，重点理解最广泛使用的基准测试（Benchmark）。

@@ -1,3 +1,5 @@
+# 16 _ NFA和DFA：如何自己实现一个正则表达式工具？
+
 <audio id="audio" title="16 | NFA和DFA：如何自己实现一个正则表达式工具？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/c6/e9/c693a53e2eccfedc3359aef4538907e9.mp3"></audio>
 
 回顾之前讲的内容，原理篇重在建立直观理解，帮你建立信心，这是第一轮的认知迭代。应用篇帮你涉足应用领域，在解决领域问题时发挥编译技术的威力，积累运用编译技术的一手经验，也启发你用编译技术去解决更多的领域问题，这是第二轮的认知迭代。而为时三节课的算法篇将你是第三轮的认知迭代。

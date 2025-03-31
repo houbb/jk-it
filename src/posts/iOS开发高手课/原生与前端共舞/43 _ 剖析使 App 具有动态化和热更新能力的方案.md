@@ -1,3 +1,5 @@
+# 43 _ 剖析使 App 具有动态化和热更新能力的方案
+
 <audio id="audio" title="43 | 剖析使 App 具有动态化和热更新能力的方案" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/68/a9/684cd40e986504106c34939e5a6d61a9.mp3"></audio>
 
 你好，我是戴铭。今天，我来和你聊聊iOS开发中的动态化和热更新方案。

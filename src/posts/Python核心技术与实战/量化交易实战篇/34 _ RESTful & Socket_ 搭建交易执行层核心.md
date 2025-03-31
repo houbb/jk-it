@@ -1,3 +1,5 @@
+# 34 _ RESTful & Socket_ 搭建交易执行层核心
+
 <audio id="audio" title="34 | RESTful & Socket: 搭建交易执行层核心" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e1/a1/e1ec2c9c2f946689f0f84445da687ea1.mp3"></audio>
 
 你好，我是景霄。

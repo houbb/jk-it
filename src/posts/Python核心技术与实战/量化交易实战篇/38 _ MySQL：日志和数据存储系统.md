@@ -1,3 +1,5 @@
+# 38 _ MySQL：日志和数据存储系统
+
 <audio id="audio" title="38 | MySQL：日志和数据存储系统" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7e/f2/7e7bad741a80ef01d67fa2afaa2435f2.mp3"></audio>
 
 你好，我是景霄。今天这节课，我们来聊聊日志和存储系统。

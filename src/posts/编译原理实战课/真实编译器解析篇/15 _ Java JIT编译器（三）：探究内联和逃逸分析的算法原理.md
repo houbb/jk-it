@@ -1,3 +1,5 @@
+# 15 _ Java JIT编译器（三）：探究内联和逃逸分析的算法原理
+
 <audio id="audio" title="15 | Java JIT编译器（三）：探究内联和逃逸分析的算法原理" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/dc/f6/dcb2a02ae500a3651f3067d603e3cff6.mp3"></audio>
 
 你好，我是宫文学。

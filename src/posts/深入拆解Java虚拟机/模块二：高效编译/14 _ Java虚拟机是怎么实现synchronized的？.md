@@ -1,3 +1,5 @@
+# 14 _ Java虚拟机是怎么实现synchronized的？
+
 <audio id="audio" title="14 | Java虚拟机是怎么实现synchronized的？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a1/bc/a1c75bf047fa0b395b36b8c3715b0abc.mp3"></audio>
 
 在Java程序中，我们可以利用synchronized关键字来对程序进行加锁。它既可以用来声明一个synchronized代码块，也可以直接标记静态方法或者实例方法。

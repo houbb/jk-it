@@ -1,3 +1,5 @@
+# 24 _ CompletableFuture：异步编程没那么难
+
 <audio id="audio" title="24 | CompletableFuture：异步编程没那么难" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/6c/aa/6cfa35dba8e235d7c8f720d50e360aaa.mp3"></audio>
 
 前面我们不止一次提到，用多线程优化性能，其实不过就是将串行操作变成并行操作。如果仔细观察，你还会发现在串行转换成并行的过程中，一定会涉及到异步化，例如下面的示例代码，现在是串行的，为了提升性能，我们得把它们并行化，那具体实施起来该怎么做呢？

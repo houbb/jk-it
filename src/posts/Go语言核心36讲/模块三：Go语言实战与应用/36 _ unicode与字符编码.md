@@ -1,3 +1,5 @@
+# 36 _ unicode与字符编码
+
 <audio id="audio" title="36 | unicode与字符编码" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b1/6b/b14d7b224de2a5924a4cb5aa253e246b.mp3"></audio>
 
 到目前为止，我们已经一起陆陆续续地学完了Go语言中那些最重要也最有特色的概念、语法和编程方式。我对于它们非常喜爱，简直可以用如数家珍来形容了。

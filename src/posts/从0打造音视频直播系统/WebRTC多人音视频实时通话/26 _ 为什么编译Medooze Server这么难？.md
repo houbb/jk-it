@@ -1,3 +1,5 @@
+# 26 _ 为什么编译Medooze Server这么难？
+
 <audio id="audio" title="26 | 为什么编译Medooze Server这么难？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a7/c9/a7194b49043bc35841b08a117b88e1c9.mp3"></audio>
 
 在[上一篇文章](https://time.geekbang.org/column/article/134284)中，我们对 Licode、Janus、Mediasoup以及Medooze 四个 WebRTC 开源流媒体服务器的实现进行对比，对于想研究音视频多方会议、录制回放、直播等流媒体技术的开发人员来说，Medooze 是很好的选择。因为它支持所有这些功能，通过它的源码及其 Demo 就可以对 Medooze 进行深入学习了。

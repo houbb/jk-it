@@ -1,3 +1,5 @@
+# 第32讲 _ 如何写出安全的Java代码？
+
 <audio id="audio" title="第32讲 | 如何写出安全的Java代码？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/82/3f/82ffa6a3a0f3b2af8d6733a8ed38dd3f.mp3"></audio>
 
 在上一讲中，我们已经初步接触了Java安全，今天我们将一起探讨更多Java开发中可能影响到安全的场合。很多安全问题，在特定的上下文，存在着不同的定义，尽管本质是相似或一致的，这是由于Java平台自身的特性所带来特有的问题。今天这一讲我将侧重于Java开发者的角度谈代码安全，而不是讲广义的安全风险。

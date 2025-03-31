@@ -1,3 +1,5 @@
+# 第20讲 _ 并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？
+
 <audio id="audio" title="第20讲 | 并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f2/56/f25da87db2759f1e04211886f6321e56.mp3"></audio>
 
 在上一讲中，我分析了Java并发包中的部分内容，今天我来介绍一下线程安全队列。Java标准库提供了非常多的线程安全队列，很容易混淆。

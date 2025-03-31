@@ -1,3 +1,5 @@
+# 32 _ 字节码生成：为什么Spring技术很强大？
+
 <audio id="audio" title="32 | 字节码生成：为什么Spring技术很强大？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/cc/e9/cca3ca182dcdceb9449b681d7db62de9.mp3"></audio>
 
 **Java程序员几乎都了解Spring。**它的IoC（依赖反转）和AOP（面向切面编程）功能非常强大、易用。而它背后的字节码生成技术（在运行时，根据需要修改和生成Java字节码的技术）就是一项重要的支撑技术。

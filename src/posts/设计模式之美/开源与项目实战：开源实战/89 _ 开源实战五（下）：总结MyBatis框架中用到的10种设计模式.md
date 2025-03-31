@@ -1,3 +1,5 @@
+# 89 _ 开源实战五（下）：总结MyBatis框架中用到的10种设计模式
+
 <audio id="audio" title="89 | 开源实战五（下）：总结MyBatis框架中用到的10种设计模式" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/8c/57/8cf480d2711c845dbd7ea62681bebd57.mp3"></audio>
 
 上节课，我带你剖析了利用职责链模式和动态代理模式实现MyBatis Plugin。至此，我们已经学习了三种职责链常用的应用场景：过滤器（Servlet Filter）、拦截器（Spring Interceptor）、插件（MyBatis Plugin）。

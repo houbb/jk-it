@@ -1,3 +1,5 @@
+# 26 _ Easylogging++和spdlog：两个好用的日志库
+
 <audio id="audio" title="26 | Easylogging++和spdlog：两个好用的日志库" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/74/bd/74f7118683d10140fec8c96f72f851bd.mp3"></audio>
 
 你好，我是吴咏炜。

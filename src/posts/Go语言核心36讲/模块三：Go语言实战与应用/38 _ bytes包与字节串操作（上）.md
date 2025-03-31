@@ -1,3 +1,5 @@
+# 38 _ bytes包与字节串操作（上）
+
 <audio id="audio" title="38 | bytes包与字节串操作（上）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ba/ba/ba50388910f70a3e9f48adde5e12dbba.mp3"></audio>
 
 我相信，经过上一次的学习，你已经对`strings.Builder`和`strings.Reader`这两个类型足够熟悉了。

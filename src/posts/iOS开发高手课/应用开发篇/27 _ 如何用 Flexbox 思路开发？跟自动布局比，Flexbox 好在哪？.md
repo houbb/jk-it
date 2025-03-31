@@ -1,3 +1,5 @@
+# 27 _ 如何用 Flexbox 思路开发？跟自动布局比，Flexbox 好在哪？
+
 <audio id="audio" title="27 | 如何用 Flexbox 思路开发？跟自动布局比，Flexbox 好在哪？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ca/66/ca20efda6f0c304c5b6e480cdf33a466.mp3"></audio>
 
 你好，我是戴铭。今天，我要和你跟你聊聊 Flexbox。

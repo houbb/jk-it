@@ -1,3 +1,5 @@
+# 14 _ Lock和Condition（上）：隐藏在并发包中的管程
+
 <audio id="audio" title="14 | Lock和Condition（上）：隐藏在并发包中的管程" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e5/0e/e5795555e9b590061872a008bce13f0e.mp3"></audio>
 
 Java SDK并发包内容很丰富，包罗万象，但是我觉得最核心的还是其对管程的实现。因为理论上利用管程，你几乎可以实现并发包里所有的工具类。在前面[《08 | 管程：并发编程的万能钥匙》](https://time.geekbang.org/column/article/86089)中我们提到过在并发编程领域，有两大核心问题：一个是**互斥**，即同一时刻只允许一个线程访问共享资源；另一个是**同步**，即线程之间如何通信、协作。这两大问题，管程都是能够解决的。**Java SDK并发包通过Lock和Condition两个接口来实现管程，其中Lock用于解决互斥问题，Condition用于解决同步问题**。

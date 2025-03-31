@@ -1,3 +1,5 @@
+# 开篇词 _ 从工程的角度深入理解Python
+
 <audio id="audio" title="开篇词 | 从工程的角度深入理解Python" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/38/d9/38c98c0ecd1b0792c1557bc1b3aceed9.mp3"></audio>
 
 你好，我是景霄。

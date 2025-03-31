@@ -1,3 +1,5 @@
+# 35 _ libffi：动态调用和定义 C 函数
+
 <audio id="audio" title="35 | libffi：动态调用和定义 C 函数" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/3f/a7/3f848f8fe1389ddc85c920f00e7909a7.mp3"></audio>
 
 你好，我是戴铭。

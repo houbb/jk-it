@@ -1,3 +1,5 @@
+# 05 _ 二进制编码：WebAssembly 微观世界的基本数据规则是什么？
+
 <audio id="audio" title="05 | 二进制编码：WebAssembly 微观世界的基本数据规则是什么？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/03/44/03855305c104a64d385a4a2ec08bcc44.mp3"></audio>
 
 你好，我是于航。

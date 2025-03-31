@@ -1,3 +1,5 @@
+# 39 _ 从小作坊到工厂：什么是Selenium Grid？如何搭建Selenium Grid？
+
 <audio id="audio" title="39 | 从小作坊到工厂：什么是Selenium Grid？如何搭建Selenium Grid？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f2/3b/f2518c17ede48c1e11261138ebe6243b.mp3"></audio>
 
 你好，我是茹炳晟，今天我分享的主题是“从小作坊到工厂：什么是Selenium Grid？如何搭建Selenium Grid？”。

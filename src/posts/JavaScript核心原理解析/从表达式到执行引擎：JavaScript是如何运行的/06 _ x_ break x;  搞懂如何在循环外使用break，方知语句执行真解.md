@@ -1,3 +1,5 @@
+# 06 _ x_ break x;  搞懂如何在循环外使用break，方知语句执行真解
+
 <audio id="audio" title="06 | x: break x;  搞懂如何在循环外使用break，方知语句执行真解" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/70/7d/70de56e9a3ba4b11497125ed750bd57d.mp3"></audio>
 
 你好，我是周爱民。

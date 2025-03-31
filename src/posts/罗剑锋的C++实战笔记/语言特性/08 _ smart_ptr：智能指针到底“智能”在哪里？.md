@@ -1,3 +1,5 @@
+# 08 _ smart_ptr：智能指针到底“智能”在哪里？
+
 <audio id="audio" title="08 | smart_ptr：智能指针到底“智能”在哪里？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/06/3c/0619ce3b770efca7f227e80d9eea4d3c.mp3"></audio>
 
 你好，我是Chrono。

@@ -1,3 +1,5 @@
+# 16 _ WebRTC中的数据统计原来这么强大（下）
+
 <audio id="audio" title="16 | WebRTC中的数据统计原来这么强大（下）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ba/1a/ba37559429fc21ba35f97f104af1b51a.mp3"></audio>
 
 在[上一篇文章](https://time.geekbang.org/column/article/118885)中我向你介绍了 WebRTC 可以获得哪些统计信息，以及如何使用 RTCPeerConntction 对象的 getStats 方法获取想要的统计信息。

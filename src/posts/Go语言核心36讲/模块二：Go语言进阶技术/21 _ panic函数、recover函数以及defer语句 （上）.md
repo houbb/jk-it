@@ -1,3 +1,5 @@
+# 21 _ panic函数、recover函数以及defer语句 （上）
+
 <audio id="audio" title="21 | panic函数、recover函数以及defer语句 （上）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/fb/86/fb1424dc84fb9487b84c18b5d3049586.mp3"></audio>
 
 我在上两篇文章中，详细地讲述了Go语言中的错误处理，并从两个视角为你总结了错误类型、错误值的处理技巧和设计方式。

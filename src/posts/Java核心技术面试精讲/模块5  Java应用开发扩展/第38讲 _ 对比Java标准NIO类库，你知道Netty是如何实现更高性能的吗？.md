@@ -1,3 +1,5 @@
+# 第38讲 _ 对比Java标准NIO类库，你知道Netty是如何实现更高性能的吗？
+
 <audio id="audio" title="第38讲 | 对比Java标准NIO类库，你知道Netty是如何实现更高性能的吗？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/3e/01/3e1abfe62177d4b41b43c4b675a62201.mp3"></audio>
 
 今天我会对NIO进行一些补充，在[专栏第11讲](http://time.geekbang.org/column/article/8369)中，我们初步接触了Java提供的几种IO机制，作为语言基础类库，Java自身的NIO设计更偏底层，这本无可厚非，但是对于一线的应用开发者，其复杂性、扩展性等方面，就存在一定的局限了。在基础NIO之上，Netty构建了更加易用、高性能的网络框架，广泛应用于互联网、游戏、电信等各种领域。

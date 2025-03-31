@@ -1,3 +1,5 @@
+# JavaScript词法：为什么12.toString会报错？
+
 <audio id="audio" title="JavaScript词法：为什么12.toString会报错？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/85/ff/85e235c2494e79efda7deeffd6046bff.mp3"></audio>
 
 你好，我是winter。

@@ -1,3 +1,5 @@
+# 练习Sample跑起来 _ 唯鹿同学的练习手记 第3辑
+
 <audio id="audio" title="练习Sample跑起来 | 唯鹿同学的练习手记 第3辑" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/df/c2/df08966dbbe1afcf86c3debc177b82c2.mp3"></audio>
 
 没想到之前的写的练习心得得到了老师的认可，看来我要更加认真努力练习了。今天来练习第22、27、ASM这三课的Sample。

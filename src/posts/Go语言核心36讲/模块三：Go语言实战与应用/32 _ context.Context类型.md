@@ -1,3 +1,5 @@
+# 32 _ context.Context类型
+
 <audio id="audio" title="32 | context.Context类型" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/aa/ff/aa51f1f404677c148c385f61c8c6e9ff.mp3"></audio>
 
 我们在上篇文章中讲到了`sync.WaitGroup`类型：一个可以帮我们实现一对多goroutine协作流程的同步工具。

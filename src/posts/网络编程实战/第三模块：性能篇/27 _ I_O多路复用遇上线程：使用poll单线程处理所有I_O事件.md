@@ -1,3 +1,5 @@
+# 27 _ I_O多路复用遇上线程：使用poll单线程处理所有I_O事件
+
 <audio id="audio" title="27 | I/O多路复用遇上线程：使用poll单线程处理所有I/O事件" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/45/01/4576a09c92b2d1d90e1b6373db513001.mp3"></audio>
 
 你好，我是盛延敏，这里是网络编程实战第27讲，欢迎回来。

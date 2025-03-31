@@ -1,3 +1,5 @@
+# 67 _ 迭代器模式（下）：如何设计实现一个支持“快照”功能的iterator？
+
 <audio id="audio" title="67 | 迭代器模式（下）：如何设计实现一个支持“快照”功能的iterator？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/34/e3/34113447e067e27945bd0aa575a34ee3.mp3"></audio>
 
 上两节课，我们学习了迭代器模式的原理、实现，并且分析了在遍历集合的同时增删集合元素，产生不可预期结果的原因以及应对策略。

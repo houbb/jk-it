@@ -1,3 +1,5 @@
+# 36 _ 记一次线上SQL死锁事故：如何避免死锁？
+
 <audio id="audio" title="36 | 记一次线上SQL死锁事故：如何避免死锁？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/1c/5b/1c5b75d5624f837b0d359360e5dfb95b.mp3"></audio>
 
 你好，我是刘超。今天我们来聊聊死锁，开始之前，先分享个小故事，相信你可能遇到过，或能从中获得一点启发。

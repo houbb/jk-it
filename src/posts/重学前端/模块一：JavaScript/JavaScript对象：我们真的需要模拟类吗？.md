@@ -1,3 +1,5 @@
+# JavaScript对象：我们真的需要模拟类吗？
+
 <audio id="audio" title="JavaScript对象：我们真的需要模拟类吗？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d5/9d/d5fae4132d1af8608110297ffbe87e9d.mp3"></audio>
 
 早期的JavaScript程序员一般都有过使用JavaScript“模拟面向对象”的经历。

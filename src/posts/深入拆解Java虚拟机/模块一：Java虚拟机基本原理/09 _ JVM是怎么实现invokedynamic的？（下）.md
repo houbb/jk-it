@@ -1,3 +1,5 @@
+# 09 _ JVM是怎么实现invokedynamic的？（下）
+
 <audio id="audio" title="09 | JVM是怎么实现invokedynamic的？（下）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ff/d0/ff432b97738d4bcee5c8c3d202ef8cd0.mp3"></audio>
 
 上回讲到，为了让所有的动物都能参加赛马，Java 7引入了invokedynamic机制，允许调用任意类的“赛跑”方法。不过，我们并没有讲解invokedynamic，而是深入地探讨了它所依赖的方法句柄。

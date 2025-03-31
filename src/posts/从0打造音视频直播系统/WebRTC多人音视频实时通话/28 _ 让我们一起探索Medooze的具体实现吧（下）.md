@@ -1,3 +1,5 @@
+# 28 _ 让我们一起探索Medooze的具体实现吧（下）
+
 <audio id="audio" title="28 | 让我们一起探索Medooze的具体实现吧（下）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/07/ab/0736c4d802c42f151dfd2aa0a6c022ab.mp3"></audio>
 
 在[上一篇文章](https://time.geekbang.org/column/article/136000)中，我向你介绍了 Medooze 的 SFU 模型、录制回放模型以及推流模型，并且还向你展示了Medooze的架构，以及Medooze核心组件的基本功能等相关方面的知识。通过这些内容，你现在应该已经对Medooze有了一个初步了解了。

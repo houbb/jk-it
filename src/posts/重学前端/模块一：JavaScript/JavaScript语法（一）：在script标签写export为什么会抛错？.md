@@ -1,3 +1,5 @@
+# JavaScript语法（一）：在script标签写export为什么会抛错？
+
 <audio id="audio" title="JavaScript语法（一）：在script标签写export为什么会抛错？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/17/31/17e095d0ecd3e81fce501ffbd047b531.mp3"></audio>
 
 你好，我是winter，今天我们进入到语法部分的学习。在讲解具体的语法结构之前，这一堂课我首先要给你介绍一下JavaScript语法的一些基本规则。

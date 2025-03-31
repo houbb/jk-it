@@ -1,3 +1,5 @@
+# 练习Sample跑起来 _ 热点问题答疑第3期
+
 <audio id="audio" title="练习Sample跑起来 | 热点问题答疑第3期" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/67/fb/6743895ed4b5615995b787a754d154fb.mp3"></audio>
 
 你好，我是孙鹏飞。又到了答疑的时间，今天我将围绕卡顿优化这个主题，和你探讨一下专栏第6期和补充篇的两个Sample的实现。

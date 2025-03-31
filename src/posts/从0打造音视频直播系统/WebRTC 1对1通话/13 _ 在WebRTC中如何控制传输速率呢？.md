@@ -1,3 +1,5 @@
+# 13 _ 在WebRTC中如何控制传输速率呢？
+
 <audio id="audio" title="13 | 在WebRTC中如何控制传输速率呢？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7d/09/7d0ef03b4e281386f928c140ee080309.mp3"></audio>
 
 在上一篇[《12 | RTCPeerConnection：音视频实时通讯的核心》](https://time.geekbang.org/column/article/116324)一文中，我向你介绍了RTCPeerConnection 对象是如何在端与端之间建立连接的，以及音视频数据又是如何通过它进行传输的。而本文则更进一步，向你介绍如何使用 RTCPeerConnection 来控制音视频数据的传输速率。

@@ -1,3 +1,5 @@
+# 06 _ Python “黑箱”：输入与输出
+
 <audio id="audio" title="06 | Python “黑箱”：输入与输出" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7e/54/7e2630056ca4ded65195cecfd7287954.mp3"></audio>
 
 你好，我是景霄。

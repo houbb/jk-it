@@ -1,3 +1,5 @@
+# 26 _ sync.Mutex与sync.RWMutex
+
 <audio id="audio" title="26 | sync.Mutex与sync.RWMutex" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/08/e5/0835ae30d16b2f864e5781e029b0b7e5.mp3"></audio>
 
 我在前面用20多篇文章，为你详细地剖析了Go语言本身的一些东西，这包括了基础概念、重要语法、高级数据类型、特色语句、测试方案等等。

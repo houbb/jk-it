@@ -1,3 +1,5 @@
+# 19 _ Spring框架：IoC和AOP是扩展的核心
+
 <audio id="audio" title="19 | Spring框架：IoC和AOP是扩展的核心" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b1/eb/b1af6cf12f64ca0d2e64de93f69803eb.mp3"></audio>
 
 你好，我是朱晔。今天，我们来聊聊Spring框架中的IoC和AOP，及其容易出错的地方。

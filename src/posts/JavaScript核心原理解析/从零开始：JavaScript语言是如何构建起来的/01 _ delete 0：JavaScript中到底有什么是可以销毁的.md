@@ -1,3 +1,5 @@
+# 01 _ delete 0：JavaScript中到底有什么是可以销毁的
+
 <audio id="audio" title="01 | delete 0：JavaScript中到底有什么是可以销毁的" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/86/f5/866ed6d1256f70b5727bea4313c145f5.mp3"></audio>
 
 你好，我是周爱民，感谢你来听我的专栏。

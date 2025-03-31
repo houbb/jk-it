@@ -1,3 +1,5 @@
+# 期中答疑 _ name(){}与name_ function() {}，两种写法有什么区别吗？
+
 
 你好，我是winter。
 

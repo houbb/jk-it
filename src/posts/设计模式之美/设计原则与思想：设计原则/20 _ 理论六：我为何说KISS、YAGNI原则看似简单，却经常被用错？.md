@@ -1,3 +1,5 @@
+# 20 _ 理论六：我为何说KISS、YAGNI原则看似简单，却经常被用错？
+
 <audio id="audio" title="20 | 理论六：我为何说KISS、YAGNI原则看似简单，却经常被用错？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/8a/8b/8a272d93747ad1d1718f9b3e57d2a88b.mp3"></audio>
 
 上几节课中，我们学习了经典的SOLID原则。今天，我们讲两个设计原则：KISS原则和YAGNI原则。其中，KISS原则比较经典，耳熟能详，但YAGNI你可能没怎么听过，不过它理解起来也不难。

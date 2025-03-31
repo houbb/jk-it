@@ -1,3 +1,5 @@
+# 第28讲 _ 热点剖析（一）：HTML5技术是如何取代Flash的？
+
 <audio id="audio" title="第28讲 | 热点剖析（一）：HTML5技术是如何取代Flash的？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/4b/d7/4bf6f809c500e75aebb3afd537b3eed7.mp3"></audio>
 
 本周开始，我将会在**每周六**更新一篇“热点剖析”，阐述我对2D游戏开发之外的热点，比如HTML5游戏、移动端游戏、AR和人工智能在游戏领域的应用，以及我对微信小游戏、移动游戏、独立游戏开发者的一些观点和看法。

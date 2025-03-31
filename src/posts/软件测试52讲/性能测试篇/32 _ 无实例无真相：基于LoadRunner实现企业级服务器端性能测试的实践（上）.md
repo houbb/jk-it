@@ -1,3 +1,5 @@
+# 32 _ 无实例无真相：基于LoadRunner实现企业级服务器端性能测试的实践（上）
+
 <audio id="audio" title="32 | 无实例无真相：基于LoadRunner实现企业级服务器端性能测试的实践（上）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/de/54/de2e0aafb90de53dc3afeb5be5b23254.mp3"></audio>
 
 你好，我是茹炳晟。今天我和你分享的主题是：无实例无真相之基于LoadRunner实现企业级服务器端性能测试的实践（上）。

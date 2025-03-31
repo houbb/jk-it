@@ -1,3 +1,5 @@
+# 45 _ CSP模型：Golang的主力队员
+
 <audio id="audio" title="45 | CSP模型：Golang的主力队员" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b7/d6/b7b0c4eb9cf2a5064c25fde0ac247ed6.mp3"></audio>
 
 Golang是一门号称从语言层面支持并发的编程语言，支持并发是Golang一个非常重要的特性。在上一篇文章[《44 | 协程：更轻量级的线程》](https://time.geekbang.org/column/article/99787)中我们介绍过，Golang支持协程，协程可以类比Java中的线程，解决并发问题的难点就在于线程（协程）之间的协作。

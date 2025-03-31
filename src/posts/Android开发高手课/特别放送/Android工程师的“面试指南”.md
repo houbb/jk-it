@@ -1,3 +1,5 @@
+# Android工程师的“面试指南”
+
 <audio id="audio" title="Android工程师的“面试指南”" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/1d/db/1db43cbf74cae275a50edf18a44d42db.mp3"></audio>
 
 你好，我是孙鹏飞。又到了传统的“金三银四”换工作的高峰期，在互联网寒冬下，抓住机会就显得尤为重要了。那作为Android工程师我们应该从哪些方面去准备呢？例如，不太熟悉的技能要不要写在简历上、要复习哪些Android组件的知识、刷算法题目有没有用，可能在面试前你都会仔细考虑这些问题。下面我就结合自身的经验和理解，帮你梳理一下关于简历、面试和算法方面需要准备的内容，分享一些我的心得体会。

@@ -1,3 +1,5 @@
+# 17 _ 别以为“自动挡”就不可能出现OOM
+
 <audio id="audio" title="17 | 别以为“自动挡”就不可能出现OOM" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/99/b4/99f0029fc267d5385ffc6a6828d7b9b4.mp3"></audio>
 
 你好，我是朱晔。今天，我要和你分享的主题是，别以为“自动挡”就不可能出现OOM。

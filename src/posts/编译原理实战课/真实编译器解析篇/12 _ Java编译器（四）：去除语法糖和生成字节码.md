@@ -1,3 +1,5 @@
+# 12 _ Java编译器（四）：去除语法糖和生成字节码
+
 <audio id="audio" title="12 | Java编译器（四）：去除语法糖和生成字节码" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/68/13/68de7726b468e4yy962e90f89ac04413.mp3"></audio>
 
 你好，我是宫文学。今天是Java编译器的最后一讲，我们来探讨编译过程最后的两个步骤：**去除语法糖和生成字节码**。

@@ -1,3 +1,5 @@
+# 14 _ 临近 OOM，如何获取详细内存分配信息，分析内存问题？
+
 <audio id="audio" title="14 | 临近 OOM，如何获取详细内存分配信息，分析内存问题？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f7/7d/f729614de76ba71a1ff7deb456c3597d.mp3"></audio>
 
 你好，我是戴铭。今天我们来聊聊，临近OOM，如何获取详细的内存分配信息，分析内存问题的话题。

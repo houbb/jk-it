@@ -1,3 +1,5 @@
+# 18 _ StampedLock：有没有比读写锁更快的锁？
+
 <audio id="audio" title="18 | StampedLock：有没有比读写锁更快的锁？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7d/30/7dd89361bb5afcbcdb844e1295617730.mp3"></audio>
 
 在[上一篇文章](https://time.geekbang.org/column/article/88909)中，我们介绍了读写锁，学习完之后你应该已经知道“读写锁允许多个线程同时读共享变量，适用于读多写少的场景”。那在读多写少的场景中，还有没有更快的技术方案呢？还真有，Java在1.8这个版本里，提供了一种叫StampedLock的锁，它的性能就比读写锁还要好。

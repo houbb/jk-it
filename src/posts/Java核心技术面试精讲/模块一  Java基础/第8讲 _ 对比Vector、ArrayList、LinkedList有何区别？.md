@@ -1,3 +1,5 @@
+# 第8讲 _ 对比Vector、ArrayList、LinkedList有何区别？
+
 <audio id="audio" title="第8讲 | 对比Vector、ArrayList、LinkedList有何区别？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d8/ae/d8ed06ea052e0673c2aa9200f0cdd4ae.mp3"></audio>
 
 我们在日常的工作中，能够高效地管理和操作数据是非常重要的。由于每个编程语言支持的数据结构不尽相同，比如我最早学习的C语言，需要自己实现很多基础数据结构，管理和操作会比较麻烦。相比之下，Java则要方便的多，针对通用场景的需求，Java提供了强大的集合框架，大大提高了开发者的生产力。

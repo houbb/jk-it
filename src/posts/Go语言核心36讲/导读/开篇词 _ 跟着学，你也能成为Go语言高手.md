@@ -1,3 +1,5 @@
+# 开篇词 _ 跟着学，你也能成为Go语言高手
+
 <audio id="audio" title="开篇词 | 跟着学，你也能成为Go语言高手" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/8d/3a/8d3fd57db02767dfb8b33aae4c53003a.mp3"></audio>
 
 你好，我是郝林。今天想跟你聊聊我和Go语言的故事。

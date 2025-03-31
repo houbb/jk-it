@@ -1,3 +1,5 @@
+# 16 _ Semaphore：如何快速实现一个限流器？
+
 <audio id="audio" title="16 | Semaphore：如何快速实现一个限流器？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/55/65/559dfe29a26ff9351fcd69e127609265.mp3"></audio>
 
 Semaphore，现在普遍翻译为“信号量”，以前也曾被翻译成“信号灯”，因为类似现实生活里的红绿灯，车辆能不能通行，要看是不是绿灯。同样，在编程世界里，线程能不能执行，也要看信号量是不是允许。

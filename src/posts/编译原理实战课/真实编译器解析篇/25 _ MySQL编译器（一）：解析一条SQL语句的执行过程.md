@@ -1,3 +1,5 @@
+# 25 _ MySQL编译器（一）：解析一条SQL语句的执行过程
+
 <audio id="audio" title="25 | MySQL编译器（一）：解析一条SQL语句的执行过程" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/9b/96/9bffa131cff817f913137d5cd368b696.mp3"></audio>
 
 你好，我是宫文学。现在，就到了我们编译之旅的最后一站了，我们一起来探索一下MySQL编译器。

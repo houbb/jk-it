@@ -1,3 +1,5 @@
+# 第24讲 _ 有哪些方法可以在运行时动态生成一个Java类？
+
 <audio id="audio" title="第24讲 | 有哪些方法可以在运行时动态生成一个Java类？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/29/de/2908eb214392b82719cb07031940e8de.mp3"></audio>
 
 在开始今天的学习前，我建议你先复习一下[专栏第6讲](http://time.geekbang.org/column/article/7489)有关动态代理的内容。作为Java基础模块中的内容，考虑到不同基础的同学以及一个循序渐进的学习过程，我当时并没有在源码层面介绍动态代理的实现技术，仅进行了相应的技术比较。但是，有了[上一讲](http://time.geekbang.org/column/article/9946)的类加载的学习基础后，我想是时候该进行深入分析了。

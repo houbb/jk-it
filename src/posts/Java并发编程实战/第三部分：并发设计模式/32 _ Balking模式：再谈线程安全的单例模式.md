@@ -1,3 +1,5 @@
+# 32 _ Balking模式：再谈线程安全的单例模式
+
 <audio id="audio" title="32 | Balking模式：再谈线程安全的单例模式" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/bd/c0/bda6f597c73273fbbf49069addaaa0c0.mp3"></audio>
 
 上一篇文章中，我们提到可以用“多线程版本的if”来理解Guarded Suspension模式，不同于单线程中的if，这个“多线程版本的if”是需要等待的，而且还很执着，必须要等到条件为真。但很显然这个世界，不是所有场景都需要这么执着，有时候我们还需要快速放弃。

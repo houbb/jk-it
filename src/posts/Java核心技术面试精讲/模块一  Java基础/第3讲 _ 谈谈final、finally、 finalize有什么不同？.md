@@ -1,3 +1,5 @@
+# 第3讲 _ 谈谈final、finally、 finalize有什么不同？
+
 <audio id="audio" title="第3讲 | 谈谈final、finally、 finalize有什么不同？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/fd/b2/fdc58ecbae845a0dcf6045fc7d4132b2.mp3"></audio>
 
 Java语言有很多看起来很相似，但是用途却完全不同的语言要素，这些内容往往容易成为面试官考察你知识掌握程度的切入点。

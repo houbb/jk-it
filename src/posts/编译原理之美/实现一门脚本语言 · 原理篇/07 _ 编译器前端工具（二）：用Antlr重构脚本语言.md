@@ -1,3 +1,5 @@
+# 07 _ 编译器前端工具（二）：用Antlr重构脚本语言
+
 <audio id="audio" title="07 | 编译器前端工具（二）：用Antlr重构脚本语言" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ed/7f/ede2ed1805a1e395548c83786aedf97f.mp3"></audio>
 
 上一讲，我带你用Antlr生成了词法分析器和语法分析器，也带你分析了，跟一门成熟的语言相比，在词法规则和语法规则方面要做的一些工作。

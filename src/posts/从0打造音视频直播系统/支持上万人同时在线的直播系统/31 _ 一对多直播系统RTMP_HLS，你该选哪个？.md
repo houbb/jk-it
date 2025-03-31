@@ -1,3 +1,5 @@
+# 31 _ 一对多直播系统RTMP_HLS，你该选哪个？
+
 <audio id="audio" title="31 | 一对多直播系统RTMP/HLS，你该选哪个？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/71/11/71d9be8956f6d4463a7e2939f13fb311.mp3"></audio>
 
 近年来，随着智能手机的普及以及移动互联网的飞速发展，音视频技术在各个行业得到了广泛的应用。尤其是娱乐直播在前几年着实火了一把，像映客、斗鱼这类以展示才艺为主的直播产品非常受大家的欢迎。

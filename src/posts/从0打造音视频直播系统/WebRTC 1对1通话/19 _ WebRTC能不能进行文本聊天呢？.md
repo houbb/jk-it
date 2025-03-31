@@ -1,3 +1,5 @@
+# 19 _ WebRTC能不能进行文本聊天呢？
+
 <audio id="audio" title="19 | WebRTC能不能进行文本聊天呢？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b3/6a/b37ed0c56869e017d6cb04d2c44ecc6a.mp3"></audio>
 
 WebRTC不但可以让你进行音视频通话，而且还可以用它传输普通的二进制数据，比如说可以利用它实现文本聊天、文件的传输等等。

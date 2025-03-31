@@ -1,3 +1,5 @@
+# 23 _ Future：如何用多线程实现最优的“烧水泡茶”程序？
+
 <audio id="audio" title="23 | Future：如何用多线程实现最优的“烧水泡茶”程序？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/dc/7b/dc11032defca4b14e9da7021b954787b.mp3"></audio>
 
 在上一篇文章[《22 | Executor与线程池：如何创建正确的线程池？》](https://time.geekbang.org/column/article/90771)中，我们详细介绍了如何创建正确的线程池，那创建完线程池，我们该如何使用呢？在上一篇文章中，我们仅仅介绍了ThreadPoolExecutor的 `void execute(Runnable command)` 方法，利用这个方法虽然可以提交任务，但是却没有办法获取任务的执行结果（execute()方法没有返回值）。而很多场景下，我们又都是需要获取任务的执行结果的。那ThreadPoolExecutor是否提供了相关功能呢？必须的，这么重要的功能当然需要提供了。

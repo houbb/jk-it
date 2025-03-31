@@ -1,3 +1,5 @@
+# 17 _ First和Follow集合：用LL算法推演一个实例
+
 <audio id="audio" title="17 | First和Follow集合：用LL算法推演一个实例" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/eb/f6/eb28140f3d4e196e2b87633856d094f6.mp3"></audio>
 
 在前面的课程中，我讲了递归下降算法。这个算法很常用，但会有回溯的现象，在性能上会有损失。所以我们要把算法升级一下，实现带有预测能力的自顶向下分析算法，避免回溯。而要做到这一点，就需要对自顶向下算法有更全面的了解。

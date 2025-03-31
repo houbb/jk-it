@@ -1,3 +1,5 @@
+# Android JVM TI机制详解（内含福利彩蛋）
+
 <audio id="audio" title="Android JVM TI机制详解（内含福利彩蛋）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e9/1e/e9b2621b301ebf777d52b63f75a9441e.mp3"></audio>
 
 你好，我是孙鹏飞。

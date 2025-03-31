@@ -1,3 +1,5 @@
+# 导读 _ 写给0基础入门的Go语言学习者
+
 <audio id="audio" title="导读 | 写给0基础入门的Go语言学习者" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ce/37/ceea8d59152d2c79d11924f1c195ed37.mp3"></audio>
 
 你好，我是郝林，今天我分享的内容是：0基础的你，如何开始入门学习Go语言。

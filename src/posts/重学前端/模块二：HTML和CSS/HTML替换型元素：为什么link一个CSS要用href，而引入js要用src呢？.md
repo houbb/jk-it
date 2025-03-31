@@ -1,3 +1,5 @@
+# HTML替换型元素：为什么link一个CSS要用href，而引入js要用src呢？
+
 <audio id="audio" title="HTML替换型元素：为什么link一个CSS要用href，而引入js要用src呢？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/44/f9/442f9692a3a382c7f40d1bcf0a090bf9.mp3"></audio>
 
 你好，我是winter。我们今天来讲讲替换型元素。

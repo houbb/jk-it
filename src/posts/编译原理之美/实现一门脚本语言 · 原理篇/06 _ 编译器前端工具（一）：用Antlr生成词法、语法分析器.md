@@ -1,3 +1,5 @@
+# 06 _ 编译器前端工具（一）：用Antlr生成词法、语法分析器
+
 <audio id="audio" title="06 | 编译器前端工具（一）：用Antlr生成词法、语法分析器" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ae/66/ae7ff2cc300ab83c9f3250f2fb435e66.mp3"></audio>
 
 前面的课程中，我重点讲解了词法分析和语法分析，在例子中提到的词法和语法规则也是高度简化的。虽然这些内容便于理解原理，也能实现一个简单的原型，在实际应用中却远远不够。实际应用中，一个完善的编译程序还要在词法方面以及语法方面实现很多工作，我这里特意画了一张图，你可以直观地看一下。

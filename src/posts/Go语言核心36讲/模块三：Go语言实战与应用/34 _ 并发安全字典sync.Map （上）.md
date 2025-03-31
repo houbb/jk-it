@@ -1,3 +1,5 @@
+# 34 _ 并发安全字典sync.Map （上）
+
 <audio id="audio" title="34 | 并发安全字典sync.Map （上）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/90/ab/907d94311773ebb569b1b49ed34b07ab.mp3"></audio>
 
 在前面，我几乎已经把Go语言自带的同步工具全盘托出了。你是否已经听懂了会用了呢？

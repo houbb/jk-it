@@ -1,3 +1,5 @@
+# 50 _ 装饰器模式：通过剖析Java IO类库源码学习装饰器模式
+
 <audio id="audio" title="50 | 装饰器模式：通过剖析Java IO类库源码学习装饰器模式" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/bf/b3/bf96b1c08abd5e8fbfd86004bfc108b3.mp3"></audio>
 
 上一节课我们学习了桥接模式，桥接模式有两种理解方式。第一种理解方式是“将抽象和实现解耦，让它们能独立开发”。这种理解方式比较特别，应用场景也不多。另一种理解方式更加简单，类似“组合优于继承”设计原则，这种理解方式更加通用，应用场景比较多。不管是哪种理解方式，它们的代码结构都是相同的，都是一种类之间的组合关系。

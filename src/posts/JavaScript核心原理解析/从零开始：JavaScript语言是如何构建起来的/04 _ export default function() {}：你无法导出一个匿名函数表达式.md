@@ -1,3 +1,5 @@
+# 04 _ export default function() {}：你无法导出一个匿名函数表达式
+
 <audio id="audio" title="04 | export default function() {}：你无法导出一个匿名函数表达式" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/67/d4/67e0433087a241e999716b1a5196c0d4.mp3"></audio>
 
 你好，我是周爱民，欢迎回到我的专栏。

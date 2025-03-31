@@ -1,3 +1,5 @@
+# 77 _ 开源实战一（下）：通过剖析Java JDK源码学习灵活应用设计模式
+
 <audio id="audio" title="77 | 开源实战一（下）：通过剖析Java JDK源码学习灵活应用设计模式" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/90/14/90b46cedf919ee8579a87a47af58eb14.mp3"></audio>
 
 上一节课，我们讲解了工厂模式、建造者模式、装饰器模式、适配器模式在Java JDK中的应用，其中，Calendar类用到了工厂模式和建造者模式，Collections类用到了装饰器模式、适配器模式。学习的重点是让你了解，在真实的项目中模式的实现和应用更加灵活、多变，会根据具体的场景做实现或者设计上的调整。

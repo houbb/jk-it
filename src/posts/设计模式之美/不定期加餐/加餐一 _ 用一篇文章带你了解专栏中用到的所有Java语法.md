@@ -1,3 +1,5 @@
+# 加餐一 _ 用一篇文章带你了解专栏中用到的所有Java语法
+
 <audio id="audio" title="加餐一 | 用一篇文章带你了解专栏中用到的所有Java语法" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/96/26/96777fe4f95a8fb8b88c90d7d8313926.mp3"></audio>
 
 尽管说设计模式跟编程语言没有直接关系，但是，我们也无法完全脱离代码来讲设计模式。我本人熟悉的是Java语言，所以专栏中的代码示例我都是用Java语言来写的。考虑到有些同学并不熟悉Java语言，我今天用一篇文章介绍一下专栏中用到的Java语法。

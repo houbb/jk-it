@@ -1,3 +1,5 @@
+# 28 _ I_O多路复用进阶：子线程使用poll处理连接I_O事件
+
 <audio id="audio" title="28 | I/O多路复用进阶：子线程使用poll处理连接I/O事件" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f3/e5/f30571eec9ba0ed5e361501f816742e5.mp3"></audio>
 
 你好，我是盛延敏，这里是网络编程实战第28讲，欢迎回来。

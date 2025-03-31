@@ -1,3 +1,5 @@
+# 07 _ 你竟然不知道SDP？它可是WebRTC的驱动核心！
+
 <audio id="audio" title="07 | 你竟然不知道SDP？它可是WebRTC的驱动核心！" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d4/b2/d4f942d99ec548a1f0a2d9163350ecb2.mp3"></audio>
 
 在前面[《01 | 原来通过浏览器访问摄像头这么容易》](https://time.geekbang.org/column/article/107948)[《04 | 可以把采集到的音视频数据录制下来吗？》](https://time.geekbang.org/column/article/109105)等文章中，我向你讲解了 WebRTC 如何采集音视频数据，以及如何将它们录制成文件等相关内容。但那些知识不过是个“**开胃菜**”，WebRTC 真正核心的知识将从本文开始陆续向你展开。不过从本文开始，知识的难度会越来越高，你一定要做好心理准备。

@@ -1,3 +1,5 @@
+# 16 _ [a, b] = {a, b}：让你从一行代码看到对象的本质
+
 <audio id="audio" title="16 | [a, b] = {a, b}：让你从一行代码看到对象的本质" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a8/39/a8a83584b9f1eb8ddfa5ef6275571239.mp3"></audio>
 
 你好，我是周爱民。欢迎回到我的专栏。

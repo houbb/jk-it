@@ -1,3 +1,5 @@
+# 22 _ Executor与线程池：如何创建正确的线程池？
+
 <audio id="audio" title="22 | Executor与线程池：如何创建正确的线程池？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/98/4b/9804ba239742c26c8e1a8f7c56cfe54b.mp3"></audio>
 
 虽然在Java语言中创建线程看上去就像创建一个对象一样简单，只需要new Thread()就可以了，但实际上创建线程远不是创建一个对象那么简单。创建对象，仅仅是在JVM的堆里分配一块内存而已；而创建一个线程，却需要调用操作系统内核的API，然后操作系统要为线程分配一系列的资源，这个成本就很高了，所以**线程是一个重量级的对象，应该避免频繁创建和销毁**。

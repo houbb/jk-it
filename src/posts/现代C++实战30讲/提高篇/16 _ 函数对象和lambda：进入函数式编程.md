@@ -1,3 +1,5 @@
+# 16 _ 函数对象和lambda：进入函数式编程
+
 <audio id="audio" title="16 | 函数对象和lambda：进入函数式编程" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f8/03/f88432c524c6b9c7deb65e3c53ff1c03.mp3"></audio>
 
 你好，我是吴咏炜。

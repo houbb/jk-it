@@ -1,3 +1,5 @@
+# 31 _ sync.WaitGroup和sync.Once
+
 <audio id="audio" title="31 | sync.WaitGroup和sync.Once" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/6b/7e/6b88fa520c495b8cbb58b1f263fc6f7e.mp3"></audio>
 
 我们在前几次讲的互斥锁、条件变量和原子操作都是最基本重要的同步工具。在Go语言中，除了通道之外，它们也算是最为常用的并发安全工具了。

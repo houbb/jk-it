@@ -1,3 +1,5 @@
+# 31 _ Guarded Suspension模式：等待唤醒机制的规范实现
+
 <audio id="audio" title="31 | Guarded Suspension模式：等待唤醒机制的规范实现" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/20/47/20fec0307714e6780fdcee5a224c7047.mp3"></audio>
 
 前不久，同事小灰工作中遇到一个问题，他开发了一个Web项目：Web版的文件浏览器，通过它用户可以在浏览器里查看服务器上的目录和文件。这个项目依赖运维部门提供的文件浏览服务，而这个文件浏览服务只支持消息队列（MQ）方式接入。消息队列在互联网大厂中用的非常多，主要用作流量削峰和系统解耦。在这种接入方式中，发送消息和消费结果这两个操作之间是异步的，你可以参考下面的示意图来理解。

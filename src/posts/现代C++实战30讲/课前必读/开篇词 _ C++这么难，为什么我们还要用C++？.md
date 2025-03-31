@@ -1,3 +1,5 @@
+# 开篇词 _ C++这么难，为什么我们还要用C++？
+
 <audio id="audio" title="开篇词 | C++这么难，为什么我们还要用C++？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b7/ad/b74aebc60774565d3993e1c42fbbe3ad.mp3"></audio>
 
 你好，我是吴咏炜。

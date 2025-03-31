@@ -1,3 +1,5 @@
+# JavaScript语法（预备篇）：到底要不要写分号呢？
+
 <audio id="audio" title="JavaScript语法（预备篇）：到底要不要写分号呢？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ac/d1/accffbf5ccf1d32f20fdcba676b784d1.mp3"></audio>
 
 你好，我是winter。

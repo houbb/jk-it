@@ -1,3 +1,5 @@
+# 第29讲 _ 热点剖析（二）：如何选择一款HTML5引擎？
+
 <audio id="audio" title="第29讲 | 热点剖析（二）：如何选择一款HTML5引擎？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/64/f1/64169576d8fe46d6961c025b4e1bc2f1.mp3"></audio>
 
 上周六，我详细介绍了[HTML5技术相比Flash技术的优势](https://time.geekbang.org/column/article/9298)，相信你已经对HTML5技术有一个大致的了解。下周六，我会带你编写一个HTML5游戏，在这之前，我们需要先了解几种常见的HTML5游戏引擎。

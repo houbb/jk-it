@@ -1,3 +1,5 @@
+# 23 _ 你真的懂Python GIL（全局解释器锁）吗？
+
 <audio id="audio" title="23 | 你真的懂Python GIL（全局解释器锁）吗？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d7/03/d7959dcb15a37743ed44e65866e8d303.mp3"></audio>
 
 你好，我是景霄。

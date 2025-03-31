@@ -1,3 +1,5 @@
+# 09 _ Java线程（上）：Java线程的生命周期
+
 <audio id="audio" title="09 | Java线程（上）：Java线程的生命周期" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/fa/0d/fac0721d577fefc74de980b361682b0d.mp3"></audio>
 
 在Java领域，实现并发程序的主要手段就是多线程。线程是操作系统里的一个概念，虽然各种不同的开发语言如Java、C#等都对其进行了封装，但是万变不离操作系统。Java语言里的线程本质上就是操作系统的线程，它们是一一对应的。

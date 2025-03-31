@@ -1,3 +1,5 @@
+# 22 _ panic函数、recover函数以及defer语句（下）
+
 <audio id="audio" title="22 | panic函数、recover函数以及defer语句（下）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/3f/98/3f98658635e74f6aba9f05ce55e42298.mp3"></audio>
 
 你好，我是郝林，今天我们继续来聊聊panic函数、recover函数以及defer语句的内容。

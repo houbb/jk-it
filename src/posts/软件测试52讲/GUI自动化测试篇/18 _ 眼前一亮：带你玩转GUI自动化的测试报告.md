@@ -1,3 +1,5 @@
+# 18 _ 眼前一亮：带你玩转GUI自动化的测试报告
+
 <audio id="audio" title="18 | 眼前一亮：带你玩转GUI自动化的测试报告" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/87/ee/872ca4ed0155da2412eaf178d01255ee.mp3"></audio>
 
 在GUI自动化测试系列的文章中，我围绕着GUI自动化测试进行了各种讨论：从最原始的GUI测试谈起，逐渐引入了脚本与数据的解耦，并谈论了页面对象模型，以及在此基础上的业务流程模型，接着分享了一些GUI自动化测试过程中的新技术，最后和你讨论了GUI自动化测试的稳定性问题。

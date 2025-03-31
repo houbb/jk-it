@@ -1,3 +1,5 @@
+# 13 _ 如何利用 RunLoop 原理去监控卡顿？
+
 <audio id="audio" title="13 | 如何利用 RunLoop 原理去监控卡顿？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/43/95/43d2aecfeaa2edaf3d771a3d3e950f95.mp3"></audio>
 
 你好，我是戴铭。今天，我来和你说说如何监控卡顿。

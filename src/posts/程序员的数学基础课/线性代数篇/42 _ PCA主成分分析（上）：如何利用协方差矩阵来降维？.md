@@ -1,3 +1,5 @@
+# 42 _ PCA主成分分析（上）：如何利用协方差矩阵来降维？
+
 <audio id="audio" title="42 | PCA主成分分析（上）：如何利用协方差矩阵来降维？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/6d/06/6d069e84c3d081776283e9d1e4403106.mp3"></audio>
 
 你好，我是黄申。

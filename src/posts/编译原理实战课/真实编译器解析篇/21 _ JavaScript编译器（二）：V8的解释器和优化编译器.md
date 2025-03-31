@@ -1,3 +1,5 @@
+# 21 _ JavaScript编译器（二）：V8的解释器和优化编译器
+
 <audio id="audio" title="21 | JavaScript编译器（二）：V8的解释器和优化编译器" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/c8/d0/c847bc9edd939a495ce01cc15e1ac3d0.mp3"></audio>
 
 你好，我是宫文学。通过前一讲的学习，我们已经了解了V8的整个编译过程，并重点探讨了一个问题，就是**V8的编译速度为什么那么快**。

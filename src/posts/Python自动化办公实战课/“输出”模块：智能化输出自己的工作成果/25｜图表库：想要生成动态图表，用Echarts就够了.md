@@ -1,3 +1,5 @@
+# 25｜图表库：想要生成动态图表，用Echarts就够了
+
 <audio id="audio" title="25｜图表库：想要生成动态图表，用Echarts就够了" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/9d/90/9d651ed8bbc2dc5ca66dc0f2f4006e90.mp3"></audio>
 
 你好，我是尹会生。

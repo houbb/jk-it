@@ -1,3 +1,5 @@
+# 练习Sample跑起来 _ 热点问题答疑第2期
+
 <audio id="audio" title="练习Sample跑起来 | 热点问题答疑第2期" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/4e/ef/4ee7f58db0aeed08c3bc148e8a6fc7ef.mp3"></audio>
 
 你好，我是孙鹏飞。今天我们基于[专栏第5期](http://time.geekbang.org/column/article/71982)的练习Sample以及热点问题，我来给你做答疑。有关上一期答疑，你可以点击[这里](http://time.geekbang.org/column/article/73068)查看。

@@ -1,3 +1,5 @@
+# 17 _ 理论三：里式替换（LSP）跟多态有何区别？哪些代码违背了LSP？
+
 <audio id="audio" title="17 | 理论三：里式替换（LSP）跟多态有何区别？哪些代码违背了LSP？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/2f/15/2fd63965f381663489f14545fa3dd115.mp3"></audio>
 
 在上两节课中，我们学习了SOLID原则中的单一职责原则和开闭原则，这两个原则都比较重要，想要灵活应用也比较难，需要你在实践中多加练习、多加体会。今天，我们再来学习SOLID中的“L”对应的原则：里式替换原则。

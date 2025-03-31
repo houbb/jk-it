@@ -1,3 +1,5 @@
+# 21 _ UI 优化（下）：如何优化 UI 渲染？
+
 <audio id="audio" title="21 | UI 优化（下）：如何优化 UI 渲染？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/bb/55/bb1e21495da391431c3faa4f33474455.mp3"></audio>
 
 孔子曰：“温故而知新”，在学习如何优化UI渲染之前，我们先来回顾一下在“卡顿优化”中学到的知识。关于卡顿优化，我们学习了4种本地排查卡顿的工具，以及多种线上监控卡顿、帧率的方法。为什么要回顾卡顿优化呢？那是因为UI渲染也会造成卡顿，并且肯定会有同学疑惑卡顿优化和UI优化的区别是什么。

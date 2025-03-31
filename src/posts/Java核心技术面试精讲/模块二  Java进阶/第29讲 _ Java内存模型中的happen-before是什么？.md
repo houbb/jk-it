@@ -1,3 +1,5 @@
+# 第29讲 _ Java内存模型中的happen-before是什么？
+
 <audio id="audio" title="第29讲 | Java内存模型中的happen-before是什么？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/2b/50/2b5c3c193cee079546f047b798b02a50.mp3"></audio>
 
 Java语言在设计之初就引入了线程的概念，以充分利用现代处理器的计算能力，这既带来了强大、灵活的多线程机制，也带来了线程安全等令人混淆的问题，而Java内存模型（Java Memory Model，JMM）为我们提供了一个在纷乱之中达成一致的指导准则。

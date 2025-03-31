@@ -1,3 +1,5 @@
+# 34 _ 如何使用Nginx搭建最简单的直播服务器？
+
 <audio id="audio" title="34 | 如何使用Nginx搭建最简单的直播服务器？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/77/d5/77999540b90634a8cff0ecaae90833d5.mp3"></audio>
 
 在前面三篇文章中，我们介绍了传统直播系统架构、HLS协议、RTMP协议相关的知识，那今天我们就来具体实操一下，根据前面所学到的知识搭建出一套最简单的音视频直播系统。

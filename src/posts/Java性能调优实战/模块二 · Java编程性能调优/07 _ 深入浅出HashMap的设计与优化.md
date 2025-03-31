@@ -1,3 +1,5 @@
+# 07 _ 深入浅出HashMap的设计与优化
+
 <audio id="audio" title="07 | 深入浅出HashMap的设计与优化" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/52/bc/52d774c8a6b9659ecb2543e3357a58bc.mp3"></audio>
 
 你好，我是刘超。

@@ -1,3 +1,5 @@
+# 18 _ 应用可变模板和tuple的编译期技巧
+
 <audio id="audio" title="18 | 应用可变模板和tuple的编译期技巧" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/76/e0/76181e927a84617d78a7ca04e16195e0.mp3"></audio>
 
 你好，我是吴咏炜。

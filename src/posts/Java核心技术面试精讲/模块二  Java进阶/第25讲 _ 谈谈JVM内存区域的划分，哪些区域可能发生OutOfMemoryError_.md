@@ -1,3 +1,5 @@
+# 第25讲 _ 谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError_
+
 <audio id="audio" title="第25讲 | 谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError?" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/24/56/247480f61e8f67524a4e6b1a368e8156.mp3"></audio>
 
 今天，我将从内存管理的角度，进一步探索Java虚拟机（JVM）。垃圾收集机制为我们打理了很多繁琐的工作，大大提高了开发的效率，但是，垃圾收集也不是万能的，懂得JVM内部的内存结构、工作机制，是设计高扩展性应用和诊断运行时问题的基础，也是Java工程师进阶的必备能力。

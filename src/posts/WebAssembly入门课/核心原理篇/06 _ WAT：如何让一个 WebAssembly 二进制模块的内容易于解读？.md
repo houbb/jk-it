@@ -1,3 +1,5 @@
+# 06 _ WAT：如何让一个 WebAssembly 二进制模块的内容易于解读？
+
 <audio id="audio" title="06 | WAT：如何让一个 WebAssembly 二进制模块的内容易于解读？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b3/97/b33dc3cd5afd051cc1c10444402ee397.mp3"></audio>
 
 你好，我是于航。

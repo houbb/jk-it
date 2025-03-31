@@ -1,3 +1,5 @@
+# 11 _ throw 1;：它在“最简单语法榜”上排名第三
+
 <audio id="audio" title="11 | throw 1;：它在“最简单语法榜”上排名第三" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/36/d7/36b4435dd92f1b4ea3ffd7b0312ccbd7.mp3"></audio>
 
 你好，我是周爱民，欢迎回到我的专栏。

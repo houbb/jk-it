@@ -1,3 +1,5 @@
+# 29 _ 如何使用Medooze 实现多方视频会议？
+
 <audio id="audio" title="29 | 如何使用Medooze 实现多方视频会议？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/02/5a/0270e43cbb16491a8119394771eb4b5a.mp3"></audio>
 
 前面我们通过两篇文章详细介绍了 Medooze 的实现逻辑，我相信你现在已经对 Medooze 有了非常深刻的认知。通过对Medooze实现原理和架构的了解，我们可以知道Medooze支持的功能非常多，如录制回放、推流、SFU 等，其中最主要的功能是 SFU 的实现。

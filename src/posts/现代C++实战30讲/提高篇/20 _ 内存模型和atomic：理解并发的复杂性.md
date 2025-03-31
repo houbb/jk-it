@@ -1,3 +1,5 @@
+# 20 _ 内存模型和atomic：理解并发的复杂性
+
 <audio id="audio" title="20 | 内存模型和atomic：理解并发的复杂性" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/eb/1f/eb957e48a3d71d39cd22203c2f91ca1f.mp3"></audio>
 
 你好，我是吴咏炜。

@@ -1,3 +1,5 @@
+# 22 _ 理论八：如何用迪米特法则（LOD）实现“高内聚、松耦合”？
+
 <audio id="audio" title="22 | 理论八：如何用迪米特法则（LOD）实现“高内聚、松耦合”？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/94/56/9426fcabe93b8897f5baa5cd4a49e956.mp3"></audio>
 
 今天，我们讲最后一个设计原则：迪米特法则。尽管它不像SOLID、KISS、DRY原则那样，人尽皆知，但它却非常实用。利用这个原则，能够帮我们实现代码的“高内聚、松耦合”。今天，我们就围绕下面几个问题，并结合两个代码实战案例，来深入地学习这个法则。

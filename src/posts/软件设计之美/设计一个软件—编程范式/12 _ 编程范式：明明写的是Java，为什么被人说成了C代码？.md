@@ -1,3 +1,5 @@
+# 12 _ 编程范式：明明写的是Java，为什么被人说成了C代码？
+
 <audio id="audio" title="12 | 编程范式：明明写的是Java，为什么被人说成了C代码？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e8/33/e8692dd5903a84d1c6061b1c4f161f33.mp3"></audio>
 
 你好！我是郑晔。

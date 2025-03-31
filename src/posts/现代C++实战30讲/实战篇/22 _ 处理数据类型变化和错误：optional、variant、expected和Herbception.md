@@ -1,3 +1,5 @@
+# 22 _ 处理数据类型变化和错误：optional、variant、expected和Herbception
+
 <audio id="audio" title="22 | 处理数据类型变化和错误：optional、variant、expected和Herbception" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a4/d1/a41f07d67a4fb7f363494d1b4875bbd1.mp3"></audio>
 
 你好，我是吴咏炜。

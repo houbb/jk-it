@@ -1,3 +1,5 @@
+# 33 _ MySQL调优之SQL语句：如何写出高性能SQL语句？
+
 <audio id="audio" title="33 | MySQL调优之SQL语句：如何写出高性能SQL语句？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/4e/85/4e7d99ff3eb1c0a91be47629437e2985.mp3"></audio>
 
 你好，我是刘超。

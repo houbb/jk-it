@@ -1,3 +1,5 @@
+# 17 _ 依赖管理（一）：图片、配置和字体在Flutter中怎么用？
+
 <audio id="audio" title="17 | 依赖管理（一）：图片、配置和字体在Flutter中怎么用？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/16/b2/16bd4d37485415b29979f4571760e5b2.mp3"></audio>
 
 你好，我是陈航。

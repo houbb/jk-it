@@ -1,3 +1,5 @@
+# 01 _ 堆、栈、RAII：C++里该如何管理资源？
+
 <audio id="audio" title="01 | 堆、栈、RAII：C++里该如何管理资源？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/91/83/9160af89dda171e0a29644f9a05e6a83.mp3"></audio>
 
 你好，我是吴咏炜。

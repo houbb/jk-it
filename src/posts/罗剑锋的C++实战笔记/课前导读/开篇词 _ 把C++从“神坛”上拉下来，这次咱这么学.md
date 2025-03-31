@@ -1,3 +1,5 @@
+# 开篇词 _ 把C++从“神坛”上拉下来，这次咱这么学
+
 <audio id="audio" title="开篇词 | 把C++从“神坛”上拉下来，这次咱这么学" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f3/e9/f36845c09c2a069398d70c45f44e26e9.mp3"></audio>
 
 你好，我是罗剑锋，你叫我Chrono就好。

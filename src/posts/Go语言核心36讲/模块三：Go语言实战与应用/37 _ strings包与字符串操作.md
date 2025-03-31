@@ -1,3 +1,5 @@
+# 37 _ strings包与字符串操作
+
 <audio id="audio" title="37 | strings包与字符串操作" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d8/46/d86e6fe25606592dd8afd5a5da601d46.mp3"></audio>
 
 在上一篇文章中，我介绍了Go语言与Unicode编码规范、UTF-8编码格式的渊源及运用。

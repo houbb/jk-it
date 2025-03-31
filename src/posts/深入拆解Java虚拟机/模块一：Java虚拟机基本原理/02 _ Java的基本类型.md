@@ -1,3 +1,5 @@
+# 02 _ Java的基本类型
+
 <audio id="audio" title="02 | Java的基本类型" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b3/08/b34a839c56ed9151f116d11f11f4c308.mp3"></audio>
 
 如果你了解面向对象语言的发展史，那你可能听说过Smalltalk这门语言。它的影响力之大，以至于之后诞生的面向对象语言，或多或少都借鉴了它的设计和实现。

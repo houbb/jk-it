@@ -1,3 +1,5 @@
+# 41 _ 聊聊Flutter，面对层出不穷的新技术该如何跟进？
+
 <audio id="audio" title="41 | 聊聊Flutter，面对层出不穷的新技术该如何跟进？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b8/06/b887fa6cd26b7e10205ddb962be06906.mp3"></audio>
 
 “天下苦秦久矣”，不管是H5、React Native，还是过去两年火热的小程序，这些跨平台方案在性能和稳定性上总让我们诟病不已。最明显的例子是React Native已经发布几年了，却一直还处在Beta阶段。

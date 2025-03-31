@@ -1,3 +1,5 @@
+# 33 _ Thread-Per-Message模式：最简单实用的分工方法
+
 <audio id="audio" title="33 | Thread-Per-Message模式：最简单实用的分工方法" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/29/f1/298896d4f26f0cec234f4005eb96b8f1.mp3"></audio>
 
 我们曾经把并发编程领域的问题总结为三个核心问题：分工、同步和互斥。其中，同步和互斥相关问题更多地源自微观，而分工问题则是源自宏观。我们解决问题，往往都是从宏观入手，在编程领域，软件的设计过程也是先从概要设计开始，而后才进行详细设计。同样，**解决并发编程问题，首要问题也是解决宏观的分工问题**。

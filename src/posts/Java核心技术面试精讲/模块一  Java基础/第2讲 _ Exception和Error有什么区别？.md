@@ -1,3 +1,5 @@
+# 第2讲 _ Exception和Error有什么区别？
+
 <audio id="audio" title="第2讲 | Exception和Error有什么区别？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/cf/2b/cf0ea7ba055564ec975364da7714e02b.mp3"></audio>
 
 世界上存在永远不会出错的程序吗？也许这只会出现在程序员的梦中。随着编程语言和软件的诞生，异常情况就如影随形地纠缠着我们，只有正确处理好意外情况，才能保证程序的可靠性。

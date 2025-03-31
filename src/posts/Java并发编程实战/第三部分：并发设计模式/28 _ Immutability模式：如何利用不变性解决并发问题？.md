@@ -1,3 +1,5 @@
+# 28 _ Immutability模式：如何利用不变性解决并发问题？
+
 <audio id="audio" title="28 | Immutability模式：如何利用不变性解决并发问题？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/5b/d1/5be77153cdd85307c18a142dfab22dd1.mp3"></audio>
 
 我们曾经说过，“多个线程同时读写同一共享变量存在并发问题”，这里的必要条件之一是读写，如果只有读，而没有写，是没有并发问题的。

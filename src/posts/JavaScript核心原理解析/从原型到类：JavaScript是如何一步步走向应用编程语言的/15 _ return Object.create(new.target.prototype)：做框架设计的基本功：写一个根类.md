@@ -1,3 +1,5 @@
+# 15 _ return Object.create(new.target.prototype)：做框架设计的基本功：写一个根类
+
 <audio id="audio" title="15 | return Object.create(new.target.prototype)：做框架设计的基本功：写一个根类" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7b/ef/7b6e533383d309f71c119fbfb4e7ecef.mp3"></audio>
 
 你好，我是周爱民。

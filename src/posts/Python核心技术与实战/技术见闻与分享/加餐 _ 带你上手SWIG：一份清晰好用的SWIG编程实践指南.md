@@ -1,3 +1,5 @@
+# 加餐 _ 带你上手SWIG：一份清晰好用的SWIG编程实践指南
+
 <audio id="audio" title="加餐 | 带你上手SWIG：一份清晰好用的SWIG编程实践指南" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f4/a2/f40b5ea3926293abe1eadc781c1c2aa2.mp3"></audio>
 
 你好，我是卢誉声，Autodesk 数据平台和计算平台资深软件工程师，也是《移动平台深度神经网络实战》和《分布式实时处理系统：原理架构与实现》的作者，主要从事C/C++、JavaScript开发工作和平台架构方面的研发工作，对SWIG也有比较深的研究。很高兴受极客时间邀请来做本次分享，今天，我们就来聊一聊SWIG这个话题。

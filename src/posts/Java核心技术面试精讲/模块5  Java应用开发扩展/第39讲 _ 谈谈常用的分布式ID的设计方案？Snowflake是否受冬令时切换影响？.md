@@ -1,3 +1,5 @@
+# 第39讲 _ 谈谈常用的分布式ID的设计方案？Snowflake是否受冬令时切换影响？
+
 <audio id="audio" title="第39讲 | 谈谈常用的分布式ID的设计方案？Snowflake是否受冬令时切换影响？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/c7/89/c732a54f9bf356b24cf0dfa377b5c889.mp3"></audio>
 
 专栏的绝大部分主题都侧重于Java语言和虚拟机，基本都是单机模式下的问题，今天我会补充一个分布式相关的问题。严格来说，分布式并不算是Java领域，而是一个单独的大主题，但确实也会在Java技术岗位面试中被涉及。在准备面试时，如果有丰富的分布式系统经验当然好；如果没有，你可以选择典型问题和基础技术进行适当准备。关于分布式，我自身的实战经验也非常有限，专栏里就谈谈从理论出发的一些思考。

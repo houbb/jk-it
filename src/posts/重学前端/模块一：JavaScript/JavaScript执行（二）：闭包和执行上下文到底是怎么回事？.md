@@ -1,3 +1,5 @@
+# JavaScript执行（二）：闭包和执行上下文到底是怎么回事？
+
 <audio id="audio" title="JavaScript执行（二）：闭包和执行上下文到底是怎么回事？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/00/9b/0071a87b7ecb2e9a93c7d12a93946d9b.mp3"></audio>
 
 你好，我是winter。

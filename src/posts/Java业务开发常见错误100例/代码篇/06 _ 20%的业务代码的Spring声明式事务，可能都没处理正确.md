@@ -1,3 +1,5 @@
+# 06 _ 20%的业务代码的Spring声明式事务，可能都没处理正确
+
 <audio id="audio" title="06 | 20%的业务代码的Spring声明式事务，可能都没处理正确" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/23/2e/23c8957e2bcc2e490cc4b8e1ef6b792e.mp3"></audio>
 
 你好，我是朱晔。今天，我来和你聊聊业务代码中与数据库事务相关的坑。

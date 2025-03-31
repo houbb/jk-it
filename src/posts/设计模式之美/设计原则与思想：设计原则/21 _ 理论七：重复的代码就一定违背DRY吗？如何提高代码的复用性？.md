@@ -1,3 +1,5 @@
+# 21 _ 理论七：重复的代码就一定违背DRY吗？如何提高代码的复用性？
+
 <audio id="audio" title="21 | 理论七：重复的代码就一定违背DRY吗？如何提高代码的复用性？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f8/d7/f82d26740eeba1788d48bd95f543cad7.mp3"></audio>
 
 在上一节课中，我们讲了KISS原则和YAGNI原则，KISS原则可以说是人尽皆知。今天，我们再学习一个你肯定听过的原则，那就是DRY原则。它的英文描述为：Don’t Repeat Yourself。中文直译为：不要重复自己。将它应用在编程中，可以理解为：不要写重复的代码。

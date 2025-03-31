@@ -1,3 +1,5 @@
+# 31 _ Java虚拟机的监控及诊断工具（GUI篇）
+
 <audio id="audio" title="31 | Java虚拟机的监控及诊断工具（GUI篇）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/81/58/811ab21a45317b53c02d2a87a9371558.mp3"></audio>
 
 今天我们来继续了解Java虚拟机的监控及诊断工具。

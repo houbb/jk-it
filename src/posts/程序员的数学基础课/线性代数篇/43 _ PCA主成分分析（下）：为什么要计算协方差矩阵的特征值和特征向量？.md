@@ -1,3 +1,5 @@
+# 43 _ PCA主成分分析（下）：为什么要计算协方差矩阵的特征值和特征向量？
+
 <audio id="audio" title="43 | PCA主成分分析（下）：为什么要计算协方差矩阵的特征值和特征向量？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e7/5f/e7263c041cac42252155130600a99d5f.mp3"></audio>
 
 你好，我是黄申，今天我们继续来聊PCA主成分分析的下半部分。

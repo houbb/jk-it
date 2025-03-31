@@ -1,3 +1,5 @@
+# 24 _  尺有所短，寸有所长：CAP和数据存储技术选择
+
 <audio id="audio" title="24 |  尺有所短，寸有所长：CAP和数据存储技术选择" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d3/28/d31090b4db489d4bcabfdefb067e4928.mp3"></audio>
 
 你好，我是四火。

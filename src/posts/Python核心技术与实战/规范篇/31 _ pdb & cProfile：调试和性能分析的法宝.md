@@ -1,3 +1,5 @@
+# 31 _ pdb & cProfile：调试和性能分析的法宝
+
 <audio id="audio" title="31 | pdb & cProfile：调试和性能分析的法宝" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/70/07/70eaf90b67bbacab3af721301623ca07.mp3"></audio>
 
 你好，我是景霄。

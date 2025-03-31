@@ -1,3 +1,5 @@
+# 10 _ Java线程（中）：创建多少线程才是合适的？
+
 <audio id="audio" title="10 | Java线程（中）：创建多少线程才是合适的？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b7/93/b7454829f207e4fce7fc42b40ae66b93.mp3"></audio>
 
 在Java领域，实现并发程序的主要手段就是多线程，使用多线程还是比较简单的，但是使用多少个线程却是个困难的问题。工作中，经常有人问，“各种线程池的线程数量调整成多少是合适的？”或者“Tomcat的线程数、Jdbc连接池的连接数是多少？”等等。那我们应该如何设置合适的线程数呢？

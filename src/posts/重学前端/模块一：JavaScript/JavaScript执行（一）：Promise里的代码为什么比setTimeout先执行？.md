@@ -1,3 +1,5 @@
+# JavaScript执行（一）：Promise里的代码为什么比setTimeout先执行？
+
 <audio id="audio" title="JavaScript执行（一）：Promise里的代码为什么比setTimeout先执行？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/65/68/651494b39e6d5304727e745cd50bfa68.mp3"></audio>
 
 你好，我是winter。这一部分我们来讲一讲JavaScript的执行。

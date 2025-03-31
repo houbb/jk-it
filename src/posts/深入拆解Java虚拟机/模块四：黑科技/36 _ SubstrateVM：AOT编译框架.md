@@ -1,3 +1,5 @@
+# 36 _ SubstrateVM：AOT编译框架
+
 <audio id="audio" title="36 | SubstrateVM：AOT编译框架" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/60/b4/600d2b337171381b5f16347bc8abc5b4.mp3"></audio>
 
 今天我们来聊聊GraalVM中的Ahead-Of-Time（AOT）编译框架SubstrateVM。

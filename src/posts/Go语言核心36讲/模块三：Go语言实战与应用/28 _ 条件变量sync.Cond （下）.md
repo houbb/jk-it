@@ -1,3 +1,5 @@
+# 28 _ 条件变量sync.Cond （下）
+
 <audio id="audio" title="28 | 条件变量sync.Cond （下）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/dc/c1/dc69b4e352ee74948a122e27450197c1.mp3"></audio>
 
 你好，我是郝林，今天我继续分享条件变量sync.Cond的内容。我们紧接着上一篇的内容进行知识扩展。

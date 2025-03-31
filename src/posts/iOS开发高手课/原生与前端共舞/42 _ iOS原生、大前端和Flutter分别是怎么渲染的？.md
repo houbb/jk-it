@@ -1,3 +1,5 @@
+# 42 _ iOS原生、大前端和Flutter分别是怎么渲染的？
+
 <audio id="audio" title="42 | iOS原生、大前端和Flutter分别是怎么渲染的？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/3e/d6/3eb8d8ae545770e6789f9844a05c3bd6.mp3"></audio>
 
 你好，我是戴铭。今天，我来和你聊聊iOS原生、大前端和Flutter分别是怎么渲染的。

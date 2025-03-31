@@ -1,3 +1,5 @@
+# 37 _ 如何检测并优化Flutter App的整体性能表现？
+
 <audio id="audio" title="37 | 如何检测并优化Flutter App的整体性能表现？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/0a/bc/0a3368f5c1858140b91706bcf745eabc.mp3"></audio>
 
 你好，我是陈航。

@@ -1,3 +1,5 @@
+# 35 _ MySQL调优之索引：索引的失效与优化
+
 <audio id="audio" title="35 | MySQL调优之索引：索引的失效与优化" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7c/ba/7cdd92613410ae7756d12d84dddd16ba.mp3"></audio>
 
 你好，我是刘超。

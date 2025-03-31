@@ -1,3 +1,5 @@
+# 35 _ 并发安全字典sync.Map (下)
+
 <audio id="audio" title="35 | 并发安全字典sync.Map (下)" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/cc/b6/ccdbcb5010588e22947e628c382b47b6.mp3"></audio>
 
 你好，我是郝林，今天我们继续来分享并发安全字典sync.Map的内容。

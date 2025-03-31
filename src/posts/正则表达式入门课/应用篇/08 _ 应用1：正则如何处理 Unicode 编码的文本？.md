@@ -1,3 +1,5 @@
+# 08 _ 应用1：正则如何处理 Unicode 编码的文本？
+
 <audio id="audio" title="08 | 应用1：正则如何处理 Unicode 编码的文本？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/61/f1/613871e207af4bcf76d87b23a65be1f1.mp3"></audio>
 
 你好，我是伟忠。这一节我们来学习，如何使用正则来处理Unicode编码的文本。如果你需要使用正则处理中文，可以好好了解一下这些内容。

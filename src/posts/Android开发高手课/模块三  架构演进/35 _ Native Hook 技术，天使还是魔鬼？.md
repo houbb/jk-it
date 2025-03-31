@@ -1,3 +1,5 @@
+# 35 _ Native Hook 技术，天使还是魔鬼？
+
 <audio id="audio" title="35 | Native Hook 技术，天使还是魔鬼？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/6d/09/6db27ce706e7ae726f4f1e27d6358b09.mp3"></audio>
 
 相信一直坚持学习专栏的同学对Hook一定不会陌生，在前面很多期里我无数次提到Hook。可能有不少同学对于Hook还是“懵懵懂懂”，那今天我们从来头了解一下什么是Hook。

@@ -1,3 +1,5 @@
+# 第30讲 _ Java程序运行在Docker等容器环境有哪些新问题？
+
 <audio id="audio" title="第30讲 | Java程序运行在Docker等容器环境有哪些新问题？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/1a/36/1a527e67b279fe61bee7174b0e668436.mp3"></audio>
 
 如今，Docker等容器早已不是新生事物，正在逐步成为日常开发、部署环境的一部分。Java能否无缝地运行在容器环境，是否符合微服务、Serverless等新的软件架构和场景，在一定程度上也会影响未来的技术栈选择。当然，Java对Docker等容器环境的支持也在不断增强，自然地，Java在容器场景的实践也逐渐在面试中被涉及。我希望通过专栏今天这一讲，能够帮你能做到胸有成竹。

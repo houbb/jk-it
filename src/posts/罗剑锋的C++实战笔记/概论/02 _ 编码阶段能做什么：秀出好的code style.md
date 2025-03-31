@@ -1,3 +1,5 @@
+# 02 _ 编码阶段能做什么：秀出好的code style
+
 <audio id="audio" title="02 | 编码阶段能做什么：秀出好的code style" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7e/d7/7edff57af7a2f188139c7783ba030fd7.mp3"></audio>
 
 你好，我是Chrono。

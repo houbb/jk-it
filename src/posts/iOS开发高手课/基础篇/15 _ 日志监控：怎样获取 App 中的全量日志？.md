@@ -1,3 +1,5 @@
+# 15 _ 日志监控：怎样获取 App 中的全量日志？
+
 <audio id="audio" title="15 | 日志监控：怎样获取 App 中的全量日志？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/60/f2/60426f4ce3ed216e4ef1daffcd386cf2.mp3"></audio>
 
 你好，我是戴铭。

@@ -1,3 +1,5 @@
+# 34 _ Worker Thread模式：如何避免重复创建线程？
+
 <audio id="audio" title="34 | Worker Thread模式：如何避免重复创建线程？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/47/34/4750018e86e3711c0ee2b0cc391bd934.mp3"></audio>
 
 在[上一篇文章](https://time.geekbang.org/column/article/95098)中，我们介绍了一种最简单的分工模式——Thread-Per-Message模式，对应到现实世界，其实就是委托代办。这种分工模式如果用Java Thread实现，频繁地创建、销毁线程非常影响性能，同时无限制地创建线程还可能导致OOM，所以在Java领域使用场景就受限了。

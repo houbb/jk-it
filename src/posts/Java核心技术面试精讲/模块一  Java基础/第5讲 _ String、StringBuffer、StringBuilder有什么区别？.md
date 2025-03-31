@@ -1,3 +1,5 @@
+# 第5讲 _ String、StringBuffer、StringBuilder有什么区别？
+
 <audio id="audio" title="第5讲 | String、StringBuffer、StringBuilder有什么区别？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/35/af/35a90cbba35136702628acf87c4b30af.mp3"></audio>
 
 今天我会聊聊日常使用的字符串，别看它似乎很简单，但其实字符串几乎在所有编程语言里都是个特殊的存在，因为不管是数量还是体积，字符串都是大多数应用中的重要组成。

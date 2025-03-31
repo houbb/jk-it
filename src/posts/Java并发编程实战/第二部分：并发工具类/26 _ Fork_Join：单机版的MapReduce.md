@@ -1,3 +1,5 @@
+# 26 _ Fork_Join：单机版的MapReduce
+
 <audio id="audio" title="26 | Fork/Join：单机版的MapReduce" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/2f/1a/2f97aabc0e5a4ae088472a22626b121a.mp3"></audio>
 
 前面几篇文章我们介绍了线程池、Future、CompletableFuture和CompletionService，仔细观察你会发现这些工具类都是在帮助我们站在任务的视角来解决并发问题，而不是让我们纠缠在线程之间如何协作的细节上（比如线程之间如何实现等待、通知等）。**对于简单的并行任务，你可以通过“线程池+Future”的方案来解决；如果任务之间有聚合关系，无论是AND聚合还是OR聚合，都可以通过CompletableFuture来解决；而批量的并行任务，则可以通过CompletionService来解决。**

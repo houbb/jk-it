@@ -1,3 +1,5 @@
+# 39 _ 案例分析（二）：高性能网络应用框架Netty
+
 <audio id="audio" title="39 | 案例分析（二）：高性能网络应用框架Netty" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/06/85/068c0e218368700a2bc4befb300b2985.mp3"></audio>
 
 Netty是一个高性能网络应用框架，应用非常普遍，目前在Java领域里，Netty基本上成为网络程序的标配了。Netty框架功能丰富，也非常复杂，今天我们主要分析Netty框架中的线程模型，而**线程模型直接影响着网络程序的性能**。

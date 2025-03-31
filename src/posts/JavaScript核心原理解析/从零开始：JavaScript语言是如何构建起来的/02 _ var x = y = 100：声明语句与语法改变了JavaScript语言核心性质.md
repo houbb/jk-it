@@ -1,3 +1,5 @@
+# 02 _ var x = y = 100：声明语句与语法改变了JavaScript语言核心性质
+
 <audio id="audio" title="02 | var x = y = 100：声明语句与语法改变了JavaScript语言核心性质" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/87/04/877fe81349f521061eac66e153dddd04.mp3"></audio>
 
 你好，我是周爱民。

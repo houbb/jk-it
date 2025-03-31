@@ -1,3 +1,5 @@
+# 18 _ 如何使用Canvas绘制统计图表（下）？
+
 <audio id="audio" title="18 | 如何使用Canvas绘制统计图表（下）？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/35/cf/3543c89e2982e5ceccdc5a2abd516ecf.mp3"></audio>
 
 Google 的 Chrome 浏览器已经默认支持 WebRTC 库了，因此 Chrome浏览器之间已经可以进行音视频实时通信了。更让人欣喜的是Google还开源了 WebRTC 源码，此举不仅惊艳，而且非常伟大。WebRTC源码的开放，为音视频实时通信领域从业者、爱好者提供了非常好的研究和学习的机会。

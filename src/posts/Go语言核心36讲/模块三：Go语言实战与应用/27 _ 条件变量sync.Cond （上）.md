@@ -1,3 +1,5 @@
+# 27 _ 条件变量sync.Cond （上）
+
 <audio id="audio" title="27 | 条件变量sync.Cond （上）" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ec/48/ece047da1672d0fe5ea940d15ffd5048.mp3"></audio>
 
 在上篇文章中，我们主要说的是互斥锁，今天我和你来聊一聊条件变量（conditional variable）。

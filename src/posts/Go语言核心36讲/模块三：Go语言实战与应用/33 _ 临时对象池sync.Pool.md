@@ -1,3 +1,5 @@
+# 33 _ 临时对象池sync.Pool
+
 <audio id="audio" title="33 | 临时对象池sync.Pool" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a7/db/a7cf48a570b80a3e4026b572e4971fdb.mp3"></audio>
 
 到目前为止，我们已经一起学习了Go语言标准库中最重要的那几个同步工具，这包括非常经典的互斥锁、读写锁、条件变量和原子操作，以及Go语言特有的几个同步工具：

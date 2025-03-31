@@ -1,3 +1,5 @@
+# CSS渲染：CSS是如何绘制颜色的？
+
 <audio id="audio" title="CSS渲染：CSS是如何绘制颜色的？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/71/fe/711438b80226d3d7f57ed180285fa1fe.mp3"></audio>
 
 你好，我是winter，今天我们来学习一下CSS的渲染相关的属性。

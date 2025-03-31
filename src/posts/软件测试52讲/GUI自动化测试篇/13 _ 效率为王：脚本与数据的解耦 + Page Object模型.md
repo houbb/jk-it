@@ -1,3 +1,5 @@
+# 13 _ 效率为王：脚本与数据的解耦 + Page Object模型
+
 <audio id="audio" title="13 | 效率为王：脚本与数据的解耦 + Page Object模型" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/c7/d4/c799ac7f088e842cf54845b9d0e333d4.mp3"></audio>
 
 在上一篇文章中，我用Selenium 2.0实现了我们的第一个GUI自动化测试用例，在你感觉神奇的同时，是否也隐隐感到一丝丝的担忧呢？比如，测试脚本中既有测试数据又有测试操作，所有操作都集中在一个脚本中等等。

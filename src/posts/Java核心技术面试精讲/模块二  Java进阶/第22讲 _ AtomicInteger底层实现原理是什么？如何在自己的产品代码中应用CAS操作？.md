@@ -1,3 +1,5 @@
+# 第22讲 _ AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？
+
 <audio id="audio" title="第22讲 | AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/1d/ae/1d3d56bddfd62fbcb2f9d0246e01d9ae.mp3"></audio>
 
 在今天这一讲中，我来分析一下并发包内部的组成，一起来看看各种同步结构、线程池等，是基于什么原理来设计和实现的。

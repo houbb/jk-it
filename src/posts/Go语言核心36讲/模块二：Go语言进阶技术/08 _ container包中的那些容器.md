@@ -1,3 +1,5 @@
+# 08 _ container包中的那些容器
+
 <audio id="audio" title="08 | container包中的那些容器" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/7c/9f/7c4b9c8aaf83f93cb8f9c632807c449f.mp3"></audio>
 
 我们在上次讨论了数组和切片，当我们提到数组的时候，往往会想起链表。那么Go语言的链表是什么样的呢？

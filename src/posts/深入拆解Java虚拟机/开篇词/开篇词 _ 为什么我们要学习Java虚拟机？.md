@@ -1,3 +1,5 @@
+# 开篇词 _ 为什么我们要学习Java虚拟机？
+
 <audio id="audio" title="开篇词 | 为什么我们要学习Java虚拟机？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ce/ce/ce0e768ebc2940176a65dbef8dc184ce.mp3"></audio>
 
 前不久我参加了一个国外程序员的讲座，讲座的副标题很有趣，叫做：“我如何学会停止恐惧，并且爱上Java虚拟机”。

@@ -1,3 +1,5 @@
+# 17 _ 精益求精：聊聊提高GUI测试稳定性的关键技术
+
 <audio id="audio" title="17 | 精益求精：聊聊提高GUI测试稳定性的关键技术" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/32/d0/32469fefe3ca09d4b5132c0bba4c67d0.mp3"></audio>
 
 不知不觉，我已经介绍完了GUI测试相关的知识点，你可以先回顾一下这些知识点，是否还有不清楚的地方，也欢迎你给我留言进行讨论。同时，我希望这些知识点，已经帮你搭建了GUI自动化测试的知识体系。

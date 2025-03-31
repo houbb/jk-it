@@ -1,3 +1,5 @@
+# 22 _ HotSpot虚拟机的intrinsic
+
 <audio id="audio" title="22 | HotSpot虚拟机的intrinsic" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/44/19/44a3a902438a929abdda1b57d99d5b19.mp3"></audio>
 
 前不久，有同学问我，`String.indexOf`方法和自己实现的`indexOf`方法在字节码层面上差不多，为什么执行效率却有天壤之别呢？今天我们就来看一看。

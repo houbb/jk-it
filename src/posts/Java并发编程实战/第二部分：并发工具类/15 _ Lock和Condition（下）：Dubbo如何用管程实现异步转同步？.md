@@ -1,3 +1,5 @@
+# 15 _ Lock和Condition（下）：Dubbo如何用管程实现异步转同步？
+
 <audio id="audio" title="15 | Lock和Condition（下）：Dubbo如何用管程实现异步转同步？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a7/48/a7f4aace2b9e3ee6473b670640e7d848.mp3"></audio>
 
 在上一篇文章中，我们讲到Java SDK并发包里的Lock有别于synchronized隐式锁的三个特性：能够响应中断、支持超时和非阻塞地获取锁。那今天我们接着再来详细聊聊Java SDK并发包里的Condition，**Condition实现了管程模型里面的条件变量**。

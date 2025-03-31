@@ -1,3 +1,5 @@
+# 22 _ Liskov替换原则：用了继承，子类就设计对了吗？
+
 <audio id="audio" title="22 | Liskov替换原则：用了继承，子类就设计对了吗？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/e1/90/e19c2204e22a7e4edd89ba804yy64490.mp3"></audio>
 
 你好！我是郑晔。

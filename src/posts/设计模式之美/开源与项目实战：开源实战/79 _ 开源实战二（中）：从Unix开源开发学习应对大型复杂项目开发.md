@@ -1,3 +1,5 @@
+# 79 _ 开源实战二（中）：从Unix开源开发学习应对大型复杂项目开发
+
 <audio id="audio" title="79 | 开源实战二（中）：从Unix开源开发学习应对大型复杂项目开发" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/cd/f1/cd1985cbc9ec70c219447bd8086abaf1.mp3"></audio>
 
 我们知道，项目越复杂、代码量越多、参与开发人员越多、开发维护时间越长，我们就越是要重视代码质量。代码质量下降会导致项目研发困难重重，比如：开发效率低，招了很多人，天天加班，出活却不多；线上bug频发，查找bug困难，领导发飙，中层束手无策，工程师抱怨不断。

@@ -1,3 +1,5 @@
+# 13 _ 小数据包应对之策：理解TCP协议中的动态数据传输
+
 <audio id="audio" title="13 | 小数据包应对之策：理解TCP协议中的动态数据传输" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ea/9d/eaa3479a08d67268f51167ca5156fd9d.mp3"></audio>
 
 你好，我是盛延敏，这里是网络编程实战第13讲，欢迎回来。

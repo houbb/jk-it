@@ -1,3 +1,5 @@
+# 18 _ 当反射、注解和泛型遇到OOP时，会有哪些坑？
+
 <audio id="audio" title="18 | 当反射、注解和泛型遇到OOP时，会有哪些坑？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/fa/4d/fa9bd7ef5d3156e34aa86eaec1fe0f4d.mp3"></audio>
 
 你好，我是朱晔。今天，我们聊聊Java高级特性的话题，看看反射、注解和泛型遇到重载和继承时可能会产生的坑。

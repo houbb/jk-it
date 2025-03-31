@@ -1,3 +1,5 @@
+# 第16讲 _ synchronized底层如何实现？什么是锁的升级、降级？
+
 <audio id="audio" title="第16讲 | synchronized底层如何实现？什么是锁的升级、降级？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/95/de/954f1b49e90575183558eaca0a55c8de.mp3"></audio>
 
 我在[上一讲](http://time.geekbang.org/column/article/8799)对比和分析了synchronized和ReentrantLock，算是专栏进入并发编程阶段的热身，相信你已经对线程安全，以及如何使用基本的同步机制有了基础，今天我们将深入了解synchronize底层机制，分析其他锁实现和应用场景。

@@ -1,3 +1,5 @@
+# 24 _ 想成为Android高手，你需要先搞定这三个问题
+
 <audio id="audio" title="24 | 想成为Android高手，你需要先搞定这三个问题" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/77/8e/776141df1fbe1038eeb9fbee89fae58e.mp3"></audio>
 
 专栏上线已经两个多月，模块一“高质量开发”也已经更新完毕，你掌握地如何呢？我知道有不少同学一直随着专栏更新积极学习、认真完成课后的[练习作业](https://github.com/AndroidAdvanceWithGeektime)，并且及时给我反馈，作为专栏作者我很欣慰。

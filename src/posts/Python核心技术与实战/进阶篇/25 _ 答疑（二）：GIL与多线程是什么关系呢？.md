@@ -1,3 +1,5 @@
+# 25 _ 答疑（二）：GIL与多线程是什么关系呢？
+
 <audio id="audio" title="25 | 答疑（二）：GIL与多线程是什么关系呢？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/2a/7e/2a39adf03fc5aaa05cfafafea3f0387e.mp3"></audio>
 
 你好，我是景霄。

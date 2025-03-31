@@ -1,3 +1,5 @@
+# 09 _ 让我们揭开WebRTC建立连接的神秘面纱
+
 <audio id="audio" title="09 | 让我们揭开WebRTC建立连接的神秘面纱" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b7/b8/b7ff922d81efdcaef3bec6f31bc365b8.mp3"></audio>
 
 在上一篇[《08 | 有话好商量，论媒体协商》](https://time.geekbang.org/column/article/111675)文章中，我向你介绍了WebRTC进行通信时，是如何进行媒体协商的，以及媒体协商的目的是什么。

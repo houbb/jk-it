@@ -1,3 +1,5 @@
+# 12 _ 多线程之锁优化（上）：深入了解Synchronized同步锁的优化方法
+
 <audio id="audio" title="12 | 多线程之锁优化（上）：深入了解Synchronized同步锁的优化方法" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/b6/c3/b65d73406af694be02901d943d1c52c3.mp3"></audio>
 
 你好，我是刘超。从这讲开始，我们就正式进入到第三模块——多线程性能调优。

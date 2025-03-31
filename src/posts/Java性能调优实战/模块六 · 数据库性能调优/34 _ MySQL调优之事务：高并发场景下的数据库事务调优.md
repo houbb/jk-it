@@ -1,3 +1,5 @@
+# 34 _ MySQL调优之事务：高并发场景下的数据库事务调优
+
 <audio id="audio" title="34 | MySQL调优之事务：高并发场景下的数据库事务调优" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/07/cd/07d186609c9f61cb4a4c3be85dff2bcd.mp3"></audio>
 
 你好，我是刘超。

@@ -1,3 +1,5 @@
+# 02丨量词与贪婪：小小的正则，也可能把CPU拖垮！
+
 <audio id="audio" title="02丨量词与贪婪：小小的正则，也可能把CPU拖垮！" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ab/c3/abcd1e70644114b1366756966c5e75c3.mp3"></audio>
 
 你好，我是涂伟忠。在上一讲中，我们已经学习了正则中和一些元字符相关的内容。这一节我们讲一下正则中的三种模式，贪婪匹配、非贪婪匹配和独占模式。

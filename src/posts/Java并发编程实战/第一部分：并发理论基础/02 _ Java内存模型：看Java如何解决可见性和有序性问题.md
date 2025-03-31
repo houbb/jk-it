@@ -1,3 +1,5 @@
+# 02 _ Java内存模型：看Java如何解决可见性和有序性问题
+
 <audio id="audio" title="02 | Java内存模型：看Java如何解决可见性和有序性问题" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/4e/a9/4e47fabe747154115d55f37975b4bea9.mp3"></audio>
 
 上一期我们讲到在并发场景中，因可见性、原子性、有序性导致的问题常常会违背我们的直觉，从而成为并发编程的Bug之源。这三者在编程领域属于共性问题，所有的编程语言都会遇到，Java在诞生之初就支持多线程，自然也有针对这三者的技术方案，而且在编程语言领域处于领先地位。理解Java解决并发问题的解决方案，对于理解其他语言的解决方案有触类旁通的效果。

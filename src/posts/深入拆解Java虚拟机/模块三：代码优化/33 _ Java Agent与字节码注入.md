@@ -1,3 +1,5 @@
+# 33 _ Java Agent与字节码注入
+
 <audio id="audio" title="33 | Java Agent与字节码注入" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/c2/44/c2c03ab0bc40c20290ee2ebbb3ec8644.mp3"></audio>
 
 关于Java agent，大家可能都听过大名鼎鼎的`premain`方法。顾名思义，这个方法指的就是在`main`方法之前执行的方法。

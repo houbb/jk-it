@@ -1,3 +1,5 @@
+# 04｜Spring Bean 生命周期常见错误
+
 <audio id="audio" title="04｜Spring Bean 生命周期常见错误" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a4/c9/a444280c3283aa2f5b6f19e919e674c9.mp3"></audio>
 
 你好，我是傅健，这节课我们来聊一聊 Spring Bean 的初始化过程及销毁过程中的一些问题。

@@ -1,3 +1,5 @@
+# 第27讲 _ Java常见的垃圾收集器有哪些？
+
 <audio id="audio" title="第27讲 | Java常见的垃圾收集器有哪些？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ff/3e/ff66e195a633cc76f36cbae501f7983e.mp3"></audio>
 
 垃圾收集机制是Java的招牌能力，极大地提高了开发效率。如今，垃圾收集几乎成为现代语言的标配，即使经过如此长时间的发展， Java的垃圾收集机制仍然在不断的演进中，不同大小的设备、不同特征的应用场景，对垃圾收集提出了新的挑战，这当然也是面试的热点。

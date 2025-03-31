@@ -1,3 +1,5 @@
+# 16 _ 脑洞大开：GUI测试还能这么玩（Page Code Gen + Data Gen + Headless）？
+
 <audio id="audio" title="16 | 脑洞大开：GUI测试还能这么玩（Page Code Gen + Data Gen + Headless）？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/a3/72/a39e4c8b47ac41e4a3ca566cdecc2d72.mp3"></audio>
 
 在前面的几篇文章中，我介绍了GUI自动化测试的数据驱动测试、页面对象（Page Object）模型、业务流程封装，以及测试数据相关的内容。

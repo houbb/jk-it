@@ -1,3 +1,5 @@
+# 29 _ Copy-on-Write模式：不是延时策略的COW
+
 <audio id="audio" title="29 | Copy-on-Write模式：不是延时策略的COW" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d8/61/d897d55342923e76238d1bd93216ab61.mp3"></audio>
 
 在上一篇文章中我们讲到Java里String这个类在实现replace()方法的时候，并没有更改原字符串里面value[]数组的内容，而是创建了一个新字符串，这种方法在解决不可变对象的修改问题时经常用到。如果你深入地思考这个方法，你会发现它本质上是一种**Copy-on-Write方法**。所谓Copy-on-Write，经常被缩写为COW或者CoW，顾名思义就是**写时复制**。

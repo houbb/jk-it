@@ -1,3 +1,5 @@
+# 18 _ 依赖管理（二）：第三方组件库在Flutter中要如何管理？
+
 <audio id="audio" title="18 | 依赖管理（二）：第三方组件库在Flutter中要如何管理？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/03/ee/030439504f9d02f8d98e331bdd8ac7ee.mp3"></audio>
 
 你好，我是陈航。

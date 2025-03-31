@@ -1,3 +1,5 @@
+# 15｜PowerShell脚本：如何实现文件批量处理的自动化？
+
 <audio id="audio" title="15｜PowerShell脚本：如何实现文件批量处理的自动化？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/41/21/4129fbd4dfded86ff981f8a247be4c21.mp3"></audio>
 
 你好，我是尹会生。

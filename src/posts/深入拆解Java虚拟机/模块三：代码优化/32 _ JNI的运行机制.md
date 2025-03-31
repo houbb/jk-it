@@ -1,3 +1,5 @@
+# 32 _ JNI的运行机制
+
 <audio id="audio" title="32 | JNI的运行机制" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/83/22/835e43c39382b3f56e7466537b3d5622.mp3"></audio>
 
 我们经常会遇见Java语言较难表达，甚至是无法表达的应用场景。比如我们希望使用汇编语言（如X86_64的SIMD指令）来提升关键代码的性能；再比如，我们希望调用Java核心类库无法提供的，某个体系架构或者操作系统特有的功能。

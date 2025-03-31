@@ -1,3 +1,5 @@
+# 87 _ 开源实战五（上）：MyBatis如何权衡易用性、性能和灵活性？
+
 <audio id="audio" title="87 | 开源实战五（上）：MyBatis如何权衡易用性、性能和灵活性？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/fe/11/fe2ff9b2f415fbf49c10e74f71aea411.mp3"></audio>
 
 上几节课我们讲到了Spring框架，剖析了背后蕴含的一些通用设计思想，以及用到的十几种设计模式。从今天开始，我们再剖析另外一个Java项目开发中经常用到的框架：MyBatis。因为内容比较多，同样，我们也分三节课来讲解。

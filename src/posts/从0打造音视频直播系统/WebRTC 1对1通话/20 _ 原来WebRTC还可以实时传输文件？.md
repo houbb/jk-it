@@ -1,3 +1,5 @@
+# 20 _ 原来WebRTC还可以实时传输文件？
+
 <audio id="audio" title="20 | 原来WebRTC还可以实时传输文件？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/14/4b/147616a845aa2ab845f9a625b60fa94b.mp3"></audio>
 
 在[上一篇文章](https://time.geekbang.org/column/article/127360)中我向你介绍了在 WebRTC 中如何传输非音视频数据，并通过实现一个1对1实时聊天的例子向你展示了如何使用RTCDataChannel 对象进行文本数据的传输。

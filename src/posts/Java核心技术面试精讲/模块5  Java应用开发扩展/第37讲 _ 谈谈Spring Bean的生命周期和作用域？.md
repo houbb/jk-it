@@ -1,3 +1,5 @@
+# 第37讲 _ 谈谈Spring Bean的生命周期和作用域？
+
 <audio id="audio" title="第37讲 | 谈谈Spring Bean的生命周期和作用域？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d4/c7/d4a97ab8ff75f23c8902b08880c204c7.mp3"></audio>
 
 在企业应用软件开发中，Java是毫无争议的主流语言，开放的Java EE规范和强大的开源框架功不可没，其中Spring毫无疑问已经成为企业软件开发的事实标准之一。今天这一讲，我将补充Spring相关的典型面试问题，并谈谈其部分设计细节。

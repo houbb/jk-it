@@ -1,3 +1,5 @@
+# 41 _ 案例分析（四）：高性能数据库连接池HiKariCP
+
 <audio id="audio" title="41 | 案例分析（四）：高性能数据库连接池HiKariCP" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/4a/2b/4aa22f1ad88a545fba12e6f69a2cbc2b.mp3"></audio>
 
 实际工作中，我们总会难免和数据库打交道；只要和数据库打交道，就免不了使用数据库连接池。业界知名的数据库连接池有不少，例如c3p0、DBCP、Tomcat JDBC Connection Pool、Druid等，不过最近最火的是HiKariCP。

@@ -1,3 +1,5 @@
+# 19 _ CountDownLatch和CyclicBarrier：如何让多线程步调一致？
+
 <audio id="audio" title="19 | CountDownLatch和CyclicBarrier：如何让多线程步调一致？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/f7/c1/f7c9640777373dfd09007417872c34c1.mp3"></audio>
 
 前几天老板突然匆匆忙忙过来，说对账系统最近越来越慢了，能不能快速优化一下。我了解了对账系统的业务后，发现还是挺简单的，用户通过在线商城下单，会生成电子订单，保存在订单库；之后物流会生成派送单给用户发货，派送单保存在派送单库。为了防止漏派送或者重复派送，对账系统每天还会校验是否存在异常订单。

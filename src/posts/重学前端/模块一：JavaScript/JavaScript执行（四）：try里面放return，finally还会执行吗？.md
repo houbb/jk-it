@@ -1,3 +1,5 @@
+# JavaScript执行（四）：try里面放return，finally还会执行吗？
+
 <audio id="audio" title="JavaScript执行（四）：try里面放return，finally还会执行吗？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/10/62/103aec09ba6db2a2e9c485a4fa5c1462.mp3"></audio>
 
 你好，我是winter。

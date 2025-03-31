@@ -1,3 +1,5 @@
+# 06 _ jieba分词：如何基于感情色彩进行单词数量统计？
+
 <audio id="audio" title="06 | jieba分词：如何基于感情色彩进行单词数量统计？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ab/0f/ab3a9a6782818bce7e0dcfbe2c2e370f.mp3"></audio>
 
 你好，我是尹会生。

@@ -1,3 +1,5 @@
+# JavaScript执行（三）：你知道现在有多少种函数吗？
+
 <audio id="audio" title="JavaScript执行（三）：你知道现在有多少种函数吗？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/00/18/0093381651a5e580a13209cc6d07c918.mp3"></audio>
 
 在前一篇文章中，我们大致了解了执行上下文是什么，也知道了任何语句的执行都会依赖特定的上下文。

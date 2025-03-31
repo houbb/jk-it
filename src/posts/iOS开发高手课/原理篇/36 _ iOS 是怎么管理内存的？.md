@@ -1,3 +1,5 @@
+# 36 _ iOS 是怎么管理内存的？
+
 <audio id="audio" title="36 | iOS 是怎么管理内存的？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/56/41/566d8dafb8d44d084aaf72925274a241.mp3"></audio>
 
 你好，我是戴铭。今天，我来和你聊聊 iOS 是怎么管理内存的。

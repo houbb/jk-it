@@ -1,3 +1,5 @@
+# 32 _ HLS：实现一对多直播系统的必备协议
+
 <audio id="audio" title="32 | HLS：实现一对多直播系统的必备协议" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/28/37/28930131a783ad1ad4960ff58c5ece37.mp3"></audio>
 
 在[上一篇文章](https://time.geekbang.org/column/article/140181)中 ，我们对 RTMP 协议和 HLS 协议的优势与劣势进行了比较。从比较的结果我们可以看出，RTMP作为传统的直播传输技术在实时性方面要比 HLS 好很多，所以它还是有一定优势的。

@@ -1,3 +1,5 @@
+# 05 _ ArrayList还是LinkedList？使用不当性能差千倍
+
 <audio id="audio" title="05 | ArrayList还是LinkedList？使用不当性能差千倍" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/ad/b6/ad7930998d431602b4ca022d551fc5b6.mp3"></audio>
 
 你好，我是刘超。

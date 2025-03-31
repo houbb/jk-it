@@ -1,3 +1,5 @@
+# 33 _ FLV：适合录制的多媒体格式
+
 <audio id="audio" title="33 | FLV：适合录制的多媒体格式" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/9f/5b/9f9a52a2ae6d56361692bfa23c8be15b.mp3"></audio>
 
 虽然苹果拒绝使用 RTMP 协议并推出了自己的 HLS 技术，但大多数用户仍然还是使用 RTMP 协议作为传统直播系统的传输协议。在 Adobe 宣布不再对 RTMP技术进行支持的情况下，仍然还有这么多用户在使用它，说明 RTMP 协议具有其他协议不可比拟的优势。

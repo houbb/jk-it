@@ -1,3 +1,5 @@
+# 聊聊Framework的学习方法
+
 <audio id="audio" title="聊聊Framework的学习方法" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/43/3b/434c51aa49ed6f1d4a842dc082595d3b.mp3"></audio>
 
 大家好，我是陆晓明，现在在一家互联网手机公司担任Android系统开发工程师。很高兴可以在极客时间Android开发高手课专栏里，分享一些我在手机行业9年的经验以及学习Android的方法。

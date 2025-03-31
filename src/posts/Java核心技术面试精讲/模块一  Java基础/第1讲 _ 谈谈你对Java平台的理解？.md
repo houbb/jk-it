@@ -1,3 +1,5 @@
+# 第1讲 _ 谈谈你对Java平台的理解？
+
 <audio id="audio" title="第1讲 | 谈谈你对Java平台的理解？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/d5/dd/d57dcc46ca03890d476064c30eabb7dd.mp3"></audio>
 
 从你接触Java开发到现在，你对Java最直观的印象是什么呢？是它宣传的 “Write once, run anywhere”，还是目前看已经有些过于形式主义的语法呢？你对于Java平台到底了解到什么程度？请你先停下来总结思考一下。

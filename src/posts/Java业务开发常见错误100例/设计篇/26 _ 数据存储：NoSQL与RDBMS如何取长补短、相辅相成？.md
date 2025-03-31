@@ -1,3 +1,5 @@
+# 26 _ 数据存储：NoSQL与RDBMS如何取长补短、相辅相成？
+
 <audio id="audio" title="26 | 数据存储：NoSQL与RDBMS如何取长补短、相辅相成？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/99/74/99d6bb4b14d87138e87148d987122274.mp3"></audio>
 
 你好，我是朱晔。今天，我来和你聊聊数据存储的常见错误。

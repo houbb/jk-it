@@ -1,3 +1,5 @@
+# 35 _ 并发中的编译技术（三）：Erlang语言厉害在哪里？
+
 <audio id="audio" title="35 | 并发中的编译技术（三）：Erlang语言厉害在哪里？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/c0/19/c0a5ced3a0beaef1170aa16cc9826f19.mp3"></audio>
 
 你好，我是宫文学。

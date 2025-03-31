@@ -1,3 +1,5 @@
+# 第26讲 _ 如何监控和诊断JVM堆内和堆外内存使用？
+
 <audio id="audio" title="第26讲 | 如何监控和诊断JVM堆内和堆外内存使用？" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/80/fe/80d76003a3db0d8ae71532c8a3eeedfe.mp3"></audio>
 
 上一讲我介绍了JVM内存区域的划分，总结了相关的一些概念，今天我将结合JVM参数、工具等方面，进一步分析JVM内存结构，包括外部资料相对较少的堆外部分。

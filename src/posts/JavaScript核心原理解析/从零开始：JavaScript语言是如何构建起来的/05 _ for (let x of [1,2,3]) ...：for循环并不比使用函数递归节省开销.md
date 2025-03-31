@@ -1,3 +1,5 @@
+# 05 _ for (let x of [1,2,3]) ...：for循环并不比使用函数递归节省开销
+
 <audio id="audio" title="05 | for (let x of [1,2,3]) ...：for循环并不比使用函数递归节省开销" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/45/fe/454307d34b873ef16a9f3a78bafaccfe.mp3"></audio>
 
 你好，我是周爱民。欢迎回到我的专栏，我将为你揭示JavaScript最为核心的那些实现细节。

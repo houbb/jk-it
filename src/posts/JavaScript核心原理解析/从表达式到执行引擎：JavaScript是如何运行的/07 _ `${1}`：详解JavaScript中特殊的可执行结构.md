@@ -1,3 +1,5 @@
+# 07 _ `${1}`：详解JavaScript中特殊的可执行结构
+
 <audio id="audio" title="07 | `${1}`：详解JavaScript中特殊的可执行结构" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/73/1d/73d939df14126bb7e7279893e3e4bd1d.mp3"></audio>
 
 你好，我是周爱民。

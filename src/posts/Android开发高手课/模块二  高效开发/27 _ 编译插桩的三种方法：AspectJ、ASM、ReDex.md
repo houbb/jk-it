@@ -1,3 +1,5 @@
+# 27 _ 编译插桩的三种方法：AspectJ、ASM、ReDex
+
 <audio id="audio" title="27 | 编译插桩的三种方法：AspectJ、ASM、ReDex" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/c7/c8/c7ecd38869e2f6226e91f032093522c8.mp3"></audio>
 
 只要简单回顾一下前面课程的内容你就会发现，在启动耗时分析、网络监控、耗电监控中已经不止一次用到编译插桩的技术了。那什么是编译插桩呢？顾名思义，所谓的编译插桩就是在代码编译期间修改已有的代码或者生成新代码。

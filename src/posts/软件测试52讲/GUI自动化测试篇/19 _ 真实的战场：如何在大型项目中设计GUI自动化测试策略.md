@@ -1,3 +1,5 @@
+# 19 _ 真实的战场：如何在大型项目中设计GUI自动化测试策略
+
 <audio id="audio" title="19 | 真实的战场：如何在大型项目中设计GUI自动化测试策略" controls="" preload="none"><source id="mp3" src="https://static001.geekbang.org/resource/audio/2d/6e/2dc604d723e176440631e96c1b85006e.mp3"></audio>
 
 在前面的文章中，我介绍过GUI自动化测试的页面对象模型和业务流程封装等相关知识，也提到过大型全球化电商网站的GUI自动化测试，那如何把已经学到的GUI测试理论知识用到大型全球化电商网站的测试中呢？
